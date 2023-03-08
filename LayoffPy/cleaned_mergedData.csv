@@ -1,0 +1,891 @@
+Company,Company,Location_HQ,Industry,Laid_Off_Count,Date,Funds_Raised,Stage,Country,state_id,state_name,lat,lng
+0,Thoughtworks,Chicago,Other,500.0,3/1/2023 0:00,748.0,Post-IPO,United States,IL,Illinois,41.8373,-87.6862
+1,Waymo,San Francisco,Transportation,209.0,3/1/2023 0:00,5500.0,Subsidiary,United States,CA,California,37.7562,-122.443
+2,Yellow.ai,San Francisco,Support,200.0,3/1/2023 0:00,102.0,Series C,United States,CA,California,37.7562,-122.443
+3,Sonder,San Francisco,Travel,100.0,3/1/2023 0:00,839.0,Post-IPO,United States,CA,California,37.7562,-122.443
+4,Eventbrite,San Francisco,Consumer,80.0,2/28/2023 0:00,557.0,Post-IPO,United States,CA,California,37.7562,-122.443
+5,Cerebral,San Francisco,Healthcare,285.0,2/27/2023 0:00,462.0,Series C,United States,CA,California,37.7562,-122.443
+6,Palantir,Denver,Data,75.0,2/27/2023 0:00,3000.0,Post-IPO,United States,CO,Colorado,39.7621,-104.8759
+7,Outreach,Seattle,Sales,70.0,2/27/2023 0:00,489.0,Series G,United States,WA,Washington,47.6211,-122.3244
+8,Stytch,San Francisco,Security,19.0,2/27/2023 0:00,126.0,Series B,United States,CA,California,37.7562,-122.443
+9,Twitter,San Francisco,Consumer,200.0,2/25/2023 0:00,12900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+10,Velodyne Lidar,San Francisco,Transportation,220.0,2/24/2023 0:00,575.0,Acquired,United States,CA,California,37.7562,-122.443
+11,Medallia,San Francisco,Support,59.0,2/24/2023 0:00,325.0,Acquired,United States,CA,California,37.7562,-122.443
+12,Eat Just,San Francisco,Food,40.0,2/24/2023 0:00,465.0,Unknown,United States,CA,California,37.7562,-122.443
+13,Lucira Health,San Francisco,Healthcare,26.0,2/24/2023 0:00,132.0,Post-IPO,United States,CA,California,37.7562,-122.443
+14,Stax,Orlando,Finance,24.0,2/24/2023 0:00,263.0,Series D,United States,FL,Florida,28.4772,-81.3369
+15,EVgo,Los Angeles,Transportation,40.0,2/23/2023 0:00,400.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+16,StrongDM,San Francisco,Infrastructure,40.0,2/23/2023 0:00,76.0,Series B,United States,CA,California,37.7562,-122.443
+17,TaskUs,San Antonio,Support,186.0,2/22/2023 0:00,279.0,Post-IPO,United States,TX,Texas,29.4658,-98.5253
+18,Ethos Life,San Francisco,Finance,50.0,2/21/2023 0:00,406.0,Series D,United States,CA,California,37.7562,-122.443
+19,Fireblocks,New York,Crypto,30.0,2/20/2023 0:00,1000.0,Series E,United States,NY,New York,40.6943,-73.9249
+20,Evernote,San Francisco,Consumer,129.0,2/17/2023 0:00,290.0,Acquired,United States,CA,California,37.7562,-122.443
+21,Chipper Cash,San Francisco,Finance,100.0,2/17/2023 0:00,302.0,Series C,United States,CA,California,37.7562,-122.443
+22,DocuSign,San Francisco,Sales,680.0,2/16/2023 0:00,536.0,Post-IPO,United States,CA,California,37.7562,-122.443
+23,Pico Interactive,San Francisco,Other,400.0,2/16/2023 0:00,62.0,Acquired,United States,CA,California,37.7562,-122.443
+24,The RealReal,San Francisco,Retail,230.0,2/16/2023 0:00,356.0,Post-IPO,United States,CA,California,37.7562,-122.443
+25,Smartsheet,Seattle,Other,85.0,2/16/2023 0:00,152.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+26,ServiceTitan,Los Angeles,Sales,221.0,2/15/2023 0:00,1100.0,Series G,United States,CA,California,34.1139,-118.4068
+27,DigitalOcean,New York,Infrastructure,200.0,2/15/2023 0:00,491.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+28,Sprinklr,New York,Support,100.0,2/15/2023 0:00,429.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+29,Betterment,New York,Finance,28.0,2/15/2023 0:00,435.0,Series F,United States,NY,New York,40.6943,-73.9249
+30,Twilio,San Francisco,Other,1500.0,2/13/2023 0:00,614.0,Post-IPO,United States,CA,California,37.7562,-122.443
+31,Electric,New York,Other,141.0,2/13/2023 0:00,212.0,Series D,United States,NY,New York,40.6943,-73.9249
+32,iRobot,Boston,Consumer,85.0,2/13/2023 0:00,30.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+33,Collective Health,San Francisco,Healthcare,54.0,2/13/2023 0:00,719.0,Series F,United States,CA,California,37.7562,-122.443
+34,Magic Eden,San Francisco,Crypto,22.0,2/13/2023 0:00,170.0,Series B,United States,CA,California,37.7562,-122.443
+35,TripleLift,New York,Marketing,100.0,2/10/2023 0:00,16.0,Acquired,United States,NY,New York,40.6943,-73.9249
+36,Yahoo,San Francisco,Consumer,1600.0,2/9/2023 0:00,6.0,Acquired,United States,CA,California,37.7562,-122.443
+37,Misfits Market,Philadelphia,Food,649.0,2/9/2023 0:00,526.0,Series C,United States,PA,Pennsylvania,40.0077,-75.1339
+38,Olive AI,Columbus,Healthcare,215.0,2/9/2023 0:00,856.0,Series H,United States,OH,Ohio,39.9862,-82.985
+39,Oportun,San Francisco,Finance,155.0,2/9/2023 0:00,566.0,Post-IPO,United States,CA,California,37.7562,-122.443
+40,GitLab,San Francisco,Product,130.0,2/9/2023 0:00,413.0,Post-IPO,United States,CA,California,37.7562,-122.443
+41,Nomad Health,New York,Healthcare,119.0,2/9/2023 0:00,218.0,Unknown,United States,NY,New York,40.6943,-73.9249
+42,GoDaddy,Phoenix,Marketing,530.0,2/8/2023 0:00,800.0,Post-IPO,United States,AZ,Arizona,33.5722,-112.0891
+43,Affirm,San Francisco,Finance,500.0,2/8/2023 0:00,1500.0,Post-IPO,United States,CA,California,37.7562,-122.443
+44,Gusto,San Francisco,HR,126.0,2/8/2023 0:00,746.0,Series E,United States,CA,California,37.7562,-122.443
+45,Gong,San Francisco,Sales,80.0,2/8/2023 0:00,583.0,Series E,United States,CA,California,37.7562,-122.443
+46,Beam Benefits,Columbus,Healthcare,31.0,2/8/2023 0:00,168.0,Series E,United States,OH,Ohio,39.9862,-82.985
+47,Equitybee,San Francisco,Finance,24.0,2/8/2023 0:00,85.0,Series B,United States,CA,California,37.7562,-122.443
+48,Zoom,San Francisco,Other,1300.0,2/7/2023 0:00,276.0,Post-IPO,United States,CA,California,37.7562,-122.443
+49,eBay,San Francisco,Retail,500.0,2/7/2023 0:00,1200.0,Post-IPO,United States,CA,California,37.7562,-122.443
+50,SecureWorks,Atlanta,Security,212.0,2/7/2023 0:00,83.0,Post-IPO,United States,GA,Georgia,33.7627,-84.4224
+51,Salesloft,Atlanta,Sales,100.0,2/7/2023 0:00,245.0,Acquired,United States,GA,Georgia,33.7627,-84.4224
+52,Drift,Boston,Marketing,59.0,2/6/2023 0:00,107.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+53,Clari,San Francisco,Sales,20.0,2/6/2023 0:00,496.0,Series F,United States,CA,California,37.7562,-122.443
+54,Kyruus,Boston,Healthcare,70.0,2/5/2023 0:00,183.0,Unknown,United States,MA,Massachusetts,42.3188,-71.0846
+55,Protocol Labs,San Francisco,Crypto,89.0,2/3/2023 0:00,10.0,Unknown,United States,CA,California,37.7562,-122.443
+56,Okta,San Francisco,Security,300.0,2/2/2023 0:00,1200.0,Post-IPO,United States,CA,California,37.7562,-122.443
+57,Mindstrong,San Francisco,Healthcare,127.0,2/2/2023 0:00,160.0,Series C,United States,CA,California,37.7562,-122.443
+58,Miro,San Francisco,Other,119.0,2/2/2023 0:00,476.0,Series C,United States,CA,California,37.7562,-122.443
+59,Getir,New York,Food,100.0,2/2/2023 0:00,1800.0,Series E,United States,NY,New York,40.6943,-73.9249
+60,Highspot,Seattle,Sales,100.0,2/2/2023 0:00,644.0,Series F,United States,WA,Washington,47.6211,-122.3244
+61,Articulate,New York,Education,38.0,2/2/2023 0:00,1500.0,Series A,United States,NY,New York,40.6943,-73.9249
+62,Splunk,San Francisco,Data,325.0,2/1/2023 0:00,2400.0,Post-IPO,United States,CA,California,37.7562,-122.443
+63,Pinterest,San Francisco,Consumer,150.0,2/1/2023 0:00,1500.0,Post-IPO,United States,CA,California,37.7562,-122.443
+64,DraftKings,Boston,Consumer,140.0,2/1/2023 0:00,719.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+65,Cyren,Washington,Security,121.0,2/1/2023 0:00,161.0,Post-IPO,United States,DC,District of Columbia,38.9047,-77.0163
+66,Workato,San Francisco,Other,90.0,2/1/2023 0:00,415.0,Series E,United States,CA,California,37.7562,-122.443
+67,Wheel,Austin,Healthcare,56.0,2/1/2023 0:00,215.0,Series C,United States,TX,Texas,30.3004,-97.7522
+68,Chainalysis,New York,Crypto,44.0,2/1/2023 0:00,536.0,Series F,United States,NY,New York,40.6943,-73.9249
+69,Exterro,Portland,Legal,24.0,2/1/2023 0:00,100.0,Private Equity,United States,OR,Oregon,45.5372,-122.65
+70,TheSkimm,New York,Media,17.0,2/1/2023 0:00,28.0,Series C,United States,NY,New York,40.6943,-73.9249
+71,PayPal,San Francisco,Finance,2000.0,1/31/2023 0:00,216.0,Post-IPO,United States,CA,California,37.7562,-122.443
+72,Workday,San Francisco,HR,525.0,1/31/2023 0:00,230.0,Post-IPO,United States,CA,California,37.7562,-122.443
+73,HubSpot,Boston,Marketing,500.0,1/31/2023 0:00,100.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+74,Upstart,San Francisco,Finance,365.0,1/31/2023 0:00,144.0,Post-IPO,United States,CA,California,37.7562,-122.443
+75,Wish,San Francisco,Retail,150.0,1/31/2023 0:00,1600.0,Post-IPO,United States,CA,California,37.7562,-122.443
+76,Tilting Point,New York,Consumer,60.0,1/31/2023 0:00,235.0,Unknown,United States,NY,New York,40.6943,-73.9249
+77,Groupon,Chicago,Retail,500.0,1/30/2023 0:00,1400.0,Post-IPO,United States,IL,Illinois,41.8373,-87.6862
+78,Intel,San Francisco,Hardware,343.0,1/30/2023 0:00,12.0,Post-IPO,United States,CA,California,37.7562,-122.443
+79,Impossible Foods copy,San Francisco,Food,140.0,1/30/2023 0:00,1900.0,Series H,United States,CA,California,37.7562,-122.443
+80,CoinTracker,San Francisco,Crypto,19.0,1/28/2023 0:00,101.0,Series A,United States,CA,California,37.7562,-122.443
+81,Confluent,San Francisco,Data,221.0,1/26/2023 0:00,455.0,Post-IPO,United States,CA,California,37.7562,-122.443
+82,Shutterfly,San Francisco,Retail,360.0,1/25/2023 0:00,50.0,Acquired,United States,CA,California,37.7562,-122.443
+83,Guardant Health,San Francisco,Healthcare,130.0,1/25/2023 0:00,550.0,Post-IPO,United States,CA,California,37.7562,-122.443
+84,SirionLabs,Seattle,Legal,130.0,1/25/2023 0:00,171.0,Series D,United States,WA,Washington,47.6211,-122.3244
+85,Vacasa,Portland,Travel,1300.0,1/24/2023 0:00,834.0,Post-IPO,United States,OR,Oregon,45.5372,-122.65
+86,Innovaccer,San Francisco,Healthcare,245.0,1/24/2023 0:00,379.0,Series E,United States,CA,California,37.7562,-122.443
+87,Bolt,San Francisco,Finance,50.0,1/24/2023 0:00,1300.0,Series E,United States,CA,California,37.7562,-122.443
+88,OFFOR Health,Columbus,Healthcare,16.0,1/24/2023 0:00,14.0,Series A,United States,OH,Ohio,39.9862,-82.985
+89,Uber Freight,San Francisco,Logistics,150.0,1/23/2023 0:00,2700.0,Subsidiary,United States,CA,California,37.7562,-122.443
+90,Innovid,New York,Marketing,40.0,1/23/2023 0:00,295.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+91,Ermetic,San Francisco,Security,30.0,1/23/2023 0:00,97.0,Series B,United States,CA,California,37.7562,-122.443
+92,Google,San Francisco,Consumer,12000.0,1/20/2023 0:00,26.0,Post-IPO,United States,CA,California,37.7562,-122.443
+93,Wayfair,Boston,Retail,1750.0,1/20/2023 0:00,1700.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+94,Vox Media,Washington,Media,130.0,1/20/2023 0:00,307.0,Series F,United States,DC,District of Columbia,38.9047,-77.0163
+95,Karat,Seattle,HR,47.0,1/20/2023 0:00,169.0,Unknown,United States,WA,Washington,47.6211,-122.3244
+96,Edifecs,Seattle,Healthcare,30.0,1/20/2023 0:00,1.0,Unknown,United States,WA,Washington,47.6211,-122.3244
+97,Citrine Informatics,San Francisco,Data,22.0,1/20/2023 0:00,64.0,Series C,United States,CA,California,37.7562,-122.443
+98,WeWork ,New York,Real Estate,300.0,1/19/2023 0:00,22200.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+99,Hubilo,San Francisco,Other,115.0,1/19/2023 0:00,153.0,Series B,United States,CA,California,37.7562,-122.443
+100,Saks.com,New York,Retail,100.0,1/19/2023 0:00,965.0,Unknown,United States,NY,New York,40.6943,-73.9249
+101,CS Disco,Austin,Legal,62.0,1/19/2023 0:00,233.0,Post-IPO,United States,TX,Texas,30.3004,-97.7522
+102,Riot Games,Los Angeles,Consumer,46.0,1/19/2023 0:00,21.0,Acquired,United States,CA,California,34.1139,-118.4068
+103,Hydrow,Boston,Fitness,30.0,1/19/2023 0:00,269.0,Series D,United States,MA,Massachusetts,42.3188,-71.0846
+104,Microsoft,Seattle,Other,10000.0,1/18/2023 0:00,1.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+105,Teladoc Health,New York,Healthcare,300.0,1/18/2023 0:00,172.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+106,Vroom,New York,Transportation,275.0,1/18/2023 0:00,1300.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+107,8x8,San Francisco,Support,155.0,1/18/2023 0:00,253.0,Post-IPO,United States,CA,California,37.7562,-122.443
+108,Pagaya,New York,Finance,140.0,1/18/2023 0:00,571.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+109,Inspirato,Denver,Travel,109.0,1/18/2023 0:00,179.0,Post-IPO,United States,CO,Colorado,39.7621,-104.8759
+110,Starry,Boston,Other,100.0,1/18/2023 0:00,260.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+111,Addepar,San Francisco,Finance,20.0,1/18/2023 0:00,491.0,Series F,United States,CA,California,37.7562,-122.443
+112,Unity,San Francisco,Other,284.0,1/17/2023 0:00,1300.0,Post-IPO,United States,CA,California,37.7562,-122.443
+113,American Robotics,Boston,Other,50.0,1/17/2023 0:00,92.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+114,Luxury Presence,Los Angeles,Real Estate,44.0,1/17/2023 0:00,31.0,Series B,United States,CA,California,34.1139,-118.4068
+115,RingCentral,San Francisco,Other,30.0,1/17/2023 0:00,44.0,Post-IPO,United States,CA,California,37.7562,-122.443
+116,Snappy,New York,Marketing,100.0,1/15/2023 0:00,104.0,Series C,United States,NY,New York,40.6943,-73.9249
+117,Vial,San Francisco,Healthcare,40.0,1/13/2023 0:00,101.0,Series B,United States,CA,California,37.7562,-122.443
+118,Lending Club,San Francisco,Finance,225.0,1/12/2023 0:00,392.0,Post-IPO,United States,CA,California,37.7562,-122.443
+119,Greenlight,Atlanta,Finance,104.0,1/12/2023 0:00,556.0,Series D,United States,GA,Georgia,33.7627,-84.4224
+120,Mapbox,Washington,Data,64.0,1/12/2023 0:00,334.0,Unknown,United States,DC,District of Columbia,38.9047,-77.0163
+121,Career Karma,San Francisco,Education,22.0,1/12/2023 0:00,51.0,Series B,United States,CA,California,37.7562,-122.443
+122,Flexport,San Francisco,Logistics,640.0,1/11/2023 0:00,2400.0,Series E,United States,CA,California,37.7562,-122.443
+123,Qualtrics,Salt Lake City,Other,270.0,1/11/2023 0:00,400.0,Post-IPO,United States,UT,Utah,40.7777,-111.9306
+124,Verily,San Francisco,Healthcare,250.0,1/11/2023 0:00,3500.0,Unknown,United States,CA,California,37.7562,-122.443
+125,Tipalti,San Francisco,Finance,123.0,1/11/2023 0:00,565.0,Series F,United States,CA,California,37.7562,-122.443
+126,Jumio,San Francisco,Security,100.0,1/11/2023 0:00,205.0,Private Equity,United States,CA,California,37.7562,-122.443
+127,HashiCorp,San Francisco,Security,69.0,1/11/2023 0:00,349.0,Post-IPO,United States,CA,California,37.7562,-122.443
+128,Embark,Boston,Healthcare,41.0,1/11/2023 0:00,94.0,Series B,United States,MA,Massachusetts,42.3188,-71.0846
+129,Citizen,New York,Consumer,33.0,1/11/2023 0:00,133.0,Series C,United States,NY,New York,40.6943,-73.9249
+130,Coinbase,San Francisco,Crypto,950.0,1/10/2023 0:00,549.0,Post-IPO,United States,CA,California,37.7562,-122.443
+131,Blend,San Francisco,Finance,340.0,1/10/2023 0:00,665.0,Post-IPO,United States,CA,California,37.7562,-122.443
+132,ConsenSys,New York,Crypto,100.0,1/10/2023 0:00,726.0,Series D,United States,NY,New York,40.6943,-73.9249
+133,ForeScout,San Francisco,Security,100.0,1/10/2023 0:00,125.0,Post-IPO,United States,CA,California,37.7562,-122.443
+134,Parler,Nashville,Consumer,60.0,1/10/2023 0:00,36.0,Series B,United States,TN,Tennessee,36.1715,-86.7843
+135,Fate Therapeutics,San Diego,Healthcare,315.0,1/9/2023 0:00,1200.0,Post-IPO,United States,CA,California,32.8312,-117.1225
+136,WalkMe,San Francisco,Other,43.0,1/8/2023 0:00,307.0,Post-IPO,United States,CA,California,37.7562,-122.443
+137,Carbon Health,San Francisco,Healthcare,200.0,1/6/2023 0:00,522.0,Series D,United States,CA,California,37.7562,-122.443
+138,Cue,San Diego,Healthcare,388.0,1/5/2023 0:00,999.0,Post-IPO,United States,CA,California,32.8312,-117.1225
+139,SoundHound,San Francisco,Other,200.0,1/5/2023 0:00,326.0,Post-IPO,United States,CA,California,37.7562,-122.443
+140,Twitter,San Francisco,Consumer,40.0,1/5/2023 0:00,12900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+141,Everlane,San Francisco,Retail,30.0,1/5/2023 0:00,176.0,Unknown,United States,CA,California,37.7562,-122.443
+142,Personetics,New York,Support,30.0,1/5/2023 0:00,178.0,Private Equity,United States,NY,New York,40.6943,-73.9249
+143,Amazon,Seattle,Retail,8000.0,1/4/2023 0:00,108.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+144,Salesforce,San Francisco,Sales,8000.0,1/4/2023 0:00,65.0,Post-IPO,United States,CA,California,37.7562,-122.443
+145,Astronomer,Cincinnati,Data,76.0,1/4/2023 0:00,282.0,Series C,United States,OH,Ohio,39.1413,-84.5061
+146,Kaltura,New York,Media,75.0,1/4/2023 0:00,166.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+147,Augury,New York,Manufacturing,20.0,1/4/2023 0:00,274.0,Series E,United States,NY,New York,40.6943,-73.9249
+148,Uniphore,San Francisco,Support,76.0,1/3/2023 0:00,620.0,Series E,United States,CA,California,37.7562,-122.443
+149,TuSimple,San Diego,Transportation,350.0,12/21/2022 0:00,648.0,Post-IPO,United States,CA,California,32.8312,-117.1225
+150,Homebot,Denver,Real Estate,18.0,12/19/2022 0:00,4.0,Acquired,United States,CO,Colorado,39.7621,-104.8759
+151,BigCommerce,Austin,Retail,180.0,12/15/2022 0:00,224.0,Post-IPO,United States,TX,Texas,30.3004,-97.7522
+152,Freshworks,San Francisco,Support,90.0,12/15/2022 0:00,484.0,Post-IPO,United States,CA,California,37.7562,-122.443
+153,LeafLink,New York,Other,80.0,12/15/2022 0:00,379.0,Series C,United States,NY,New York,40.6943,-73.9249
+154,Quanergy Systems,San Francisco,Transportation,72.0,12/14/2022 0:00,175.0,Post-IPO,United States,CA,California,37.7562,-122.443
+155,Headspace,Los Angeles,Healthcare,50.0,12/14/2022 0:00,215.0,Unknown,United States,CA,California,34.1139,-118.4068
+156,ChowNow,Los Angeles,Food,40.0,12/14/2022 0:00,64.0,Series C,United States,CA,California,34.1139,-118.4068
+157,Thumbtack,San Francisco,Consumer,160.0,12/13/2022 0:00,698.0,Series I,United States,CA,California,37.7562,-122.443
+158,Edgio,Phoenix,Infrastructure,95.0,12/13/2022 0:00,462.0,Post-IPO,United States,AZ,Arizona,33.5722,-112.0891
+159,Komodo Health,San Francisco,Healthcare,78.0,12/13/2022 0:00,514.0,Series E,United States,CA,California,37.7562,-122.443
+160,Pluralsight,Salt Lake City,Education,400.0,12/12/2022 0:00,192.0,Acquired,United States,UT,Utah,40.7777,-111.9306
+161,Freshly,Phoenix,Food,329.0,12/12/2022 0:00,107.0,Acquired,United States,AZ,Arizona,33.5722,-112.0891
+162,Balto,St. Louis,Sales,35.0,12/12/2022 0:00,51.0,Series B,United States,MO,Missouri,38.6358,-90.2451
+163,Outschool,San Francisco,Education,43.0,12/10/2022 0:00,240.0,Series D,United States,CA,California,37.7562,-122.443
+164,C2FO,Kansas City,Finance,20.0,12/9/2022 0:00,537.0,Series H,United States,MO,Missouri,39.1239,-94.5541
+165,Airtable,San Francisco,Product,254.0,12/8/2022 0:00,1400.0,Series F,United States,CA,California,37.7562,-122.443
+166,BlackLine,Los Angeles,Finance,95.0,12/8/2022 0:00,220.0,Private Equity,United States,CA,California,34.1139,-118.4068
+167,TechTarget,Boston,Marketing,60.0,12/8/2022 0:00,115.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+168,CyCognito,San Francisco,Security,30.0,12/8/2022 0:00,153.0,Series C,United States,CA,California,37.7562,-122.443
+169,Armis,San Francisco,Security,25.0,12/8/2022 0:00,537.0,Private Equity,United States,CA,California,37.7562,-122.443
+170,Plaid,San Francisco,Finance,260.0,12/7/2022 0:00,734.0,Series D,United States,CA,California,37.7562,-122.443
+171,Motive,San Francisco,Transportation,237.0,12/7/2022 0:00,567.0,Series F,United States,CA,California,37.7562,-122.443
+172,Recur Forever,Miami,Crypto,235.0,12/7/2022 0:00,55.0,Series A,United States,FL,Florida,25.7839,-80.2102
+173,Relativity,Chicago,Legal,150.0,12/7/2022 0:00,125.0,Private Equity,United States,IL,Illinois,41.8373,-87.6862
+174,Integral Ad Science,New York,Marketing,120.0,12/7/2022 0:00,116.0,Acquired,United States,NY,New York,40.6943,-73.9249
+175,Houzz,San Francisco,Consumer,95.0,12/7/2022 0:00,613.0,Series E,United States,CA,California,37.7562,-122.443
+176,Lev,New York,Real Estate,30.0,12/7/2022 0:00,114.0,Series B,United States,NY,New York,40.6943,-73.9249
+177,Lithic,New York,Finance,27.0,12/7/2022 0:00,115.0,Series C,United States,NY,New York,40.6943,-73.9249
+178,Doma,San Francisco,Finance,515.0,12/6/2022 0:00,679.0,Post-IPO,United States,CA,California,37.7562,-122.443
+179,Intel,San Francisco,Hardware,201.0,12/6/2022 0:00,12.0,Post-IPO,United States,CA,California,37.7562,-122.443
+180,BuzzFeed,New York,Media,180.0,12/6/2022 0:00,696.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+181,Adobe,San Francisco,Marketing,100.0,12/6/2022 0:00,2.0,Post-IPO,United States,CA,California,37.7562,-122.443
+182,Chipper Cash,San Francisco,Finance,50.0,12/6/2022 0:00,302.0,Series C,United States,CA,California,37.7562,-122.443
+183,Stash,New York,Finance,32.0,12/6/2022 0:00,480.0,Unknown,United States,NY,New York,40.6943,-73.9249
+184,Aqua Security,Boston,Security,65.0,12/5/2022 0:00,265.0,Series E,United States,MA,Massachusetts,42.3188,-71.0846
+185,Bizzabo,New York,Marketing,100.0,12/1/2022 0:00,194.0,Series E,United States,NY,New York,40.6943,-73.9249
+186,Netlify,San Francisco,Product,48.0,12/1/2022 0:00,212.0,Series D,United States,CA,California,37.7562,-122.443
+187,Springbig,Miami,Sales,37.0,12/1/2022 0:00,32.0,Post-IPO,United States,FL,Florida,25.7839,-80.2102
+188,DoorDash,San Francisco,Food,1250.0,11/30/2022 0:00,2500.0,Post-IPO,United States,CA,California,37.7562,-122.443
+189,Kraken,San Francisco,Crypto,1100.0,11/30/2022 0:00,134.0,Unknown,United States,CA,California,37.7562,-122.443
+190,Happy Money,Los Angeles,Finance,158.0,11/30/2022 0:00,191.0,Series D,United States,CA,California,34.1139,-118.4068
+191,Wonder,New York,Food,130.0,11/30/2022 0:00,850.0,Series B,United States,NY,New York,40.6943,-73.9249
+192,Grin,Sacramento,Marketing,60.0,11/30/2022 0:00,145.0,Series B,United States,CA,California,38.5667,-121.4683
+193,Candy Digital,New York,Crypto,33.0,11/28/2022 0:00,100.0,Series A,United States,NY,New York,40.6943,-73.9249
+194,Western Digital,San Francisco,Hardware,251.0,11/22/2022 0:00,900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+195,Carvana,Phoenix,Transportation,1500.0,11/18/2022 0:00,1600.0,Post-IPO,United States,AZ,Arizona,33.5722,-112.0891
+196,Nuro,San Francisco,Transportation,300.0,11/18/2022 0:00,2100.0,Series D,United States,CA,California,37.7562,-122.443
+197,Synthego,San Francisco,Healthcare,105.0,11/18/2022 0:00,459.0,Series E,United States,CA,California,37.7562,-122.443
+198,Roku,San Francisco,Media,200.0,11/17/2022 0:00,208.0,Post-IPO,United States,CA,California,37.7562,-122.443
+199,Orchard,New York,Real Estate,180.0,11/17/2022 0:00,472.0,Series D,United States,NY,New York,40.6943,-73.9249
+200,Chili Piper,New York,Sales,58.0,11/17/2022 0:00,54.0,Series B,United States,NY,New York,40.6943,-73.9249
+201,Capitolis,New York,Finance,37.0,11/17/2022 0:00,281.0,Series D,United States,NY,New York,40.6943,-73.9249
+202,Amazon,Seattle,Retail,10000.0,11/16/2022 0:00,108.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+203,Cisco,San Francisco,Infrastructure,4100.0,11/16/2022 0:00,2.0,Post-IPO,United States,CA,California,37.7562,-122.443
+204,SimilarWeb,New York,Other,120.0,11/16/2022 0:00,235.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+205,Salsify,Boston,Retail,90.0,11/16/2022 0:00,452.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+206,Yotpo,New York,Marketing,70.0,11/16/2022 0:00,436.0,Unknown,United States,NY,New York,40.6943,-73.9249
+207,Pear Therapeutics,Boston,Healthcare,59.0,11/16/2022 0:00,409.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+208,UiPath,New York,Data,241.0,11/15/2022 0:00,2000.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+209,Asana,San Francisco,Other,180.0,11/15/2022 0:00,453.0,Post-IPO,United States,CA,California,37.7562,-122.443
+210,OwnBackup,New York,Security,170.0,11/15/2022 0:00,507.0,Series E,United States,NY,New York,40.6943,-73.9249
+211,The Zebra,Austin,Finance,50.0,11/15/2022 0:00,256.0,Series D,United States,TX,Texas,30.3004,-97.7522
+212,CaptivateIQ,San Francisco,Sales,31.0,11/15/2022 0:00,164.0,Series C,United States,CA,California,37.7562,-122.443
+213,Illumina,San Diego,Healthcare,500.0,11/14/2022 0:00,28.0,Post-IPO,United States,CA,California,32.8312,-117.1225
+214,Ribbon,New York,Real Estate,170.0,11/14/2022 0:00,405.0,Series C,United States,NY,New York,40.6943,-73.9249
+215,Intercom,San Francisco,Support,124.0,11/14/2022 0:00,240.0,Series D,United States,CA,California,37.7562,-122.443
+216,Science 37 ,Los Angeles,Healthcare,90.0,11/14/2022 0:00,347.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+217,Pear Therapeutics,Boston,Healthcare,59.0,11/14/2022 0:00,409.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+218,Cardlytics,Atlanta,Marketing,51.0,11/14/2022 0:00,212.0,Post-IPO,United States,GA,Georgia,33.7627,-84.4224
+219,Cloudinary,San Francisco,Media,40.0,11/14/2022 0:00,100.0,Unknown,United States,CA,California,37.7562,-122.443
+220,Veev,San Francisco,Real Estate,100.0,11/11/2022 0:00,597.0,Series D,United States,CA,California,37.7562,-122.443
+221,Juul,San Francisco,Consumer,400.0,11/10/2022 0:00,1500.0,Unknown,United States,CA,California,37.7562,-122.443
+222,Blend,San Francisco,Finance,100.0,11/10/2022 0:00,665.0,Post-IPO,United States,CA,California,37.7562,-122.443
+223,InfluxData,San Francisco,Data,65.0,11/10/2022 0:00,119.0,Series D,United States,CA,California,37.7562,-122.443
+224,Coinbase,San Francisco,Crypto,60.0,11/10/2022 0:00,549.0,Post-IPO,United States,CA,California,37.7562,-122.443
+225,SoundHound,San Francisco,Other,45.0,11/10/2022 0:00,326.0,Post-IPO,United States,CA,California,37.7562,-122.443
+226,Wistia,Boston,Marketing,40.0,11/10/2022 0:00,18.0,Unknown,United States,MA,Massachusetts,42.3188,-71.0846
+227,Meta,San Francisco,Consumer,11000.0,11/9/2022 0:00,26000.0,Post-IPO,United States,CA,California,37.7562,-122.443
+228,Redfin,Seattle,Real Estate,862.0,11/9/2022 0:00,320.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+229,Flyhomes,Seattle,Real Estate,300.0,11/9/2022 0:00,310.0,Series C,United States,WA,Washington,47.6211,-122.3244
+230,AvantStay,Los Angeles,Travel,144.0,11/9/2022 0:00,686.0,Private Equity,United States,CA,California,34.1139,-118.4068
+231,Root Insurance,Columbus,Finance,137.0,11/9/2022 0:00,527.0,Post-IPO,United States,OH,Ohio,39.9862,-82.985
+232,Liftoff,San Francisco,Marketing,130.0,11/9/2022 0:00,6.0,Acquired,United States,CA,California,37.7562,-122.443
+233,Cameo,Chicago,Consumer,80.0,11/9/2022 0:00,165.0,Unknown,United States,IL,Illinois,41.8373,-87.6862
+234,Kabam,San Francisco,Consumer,35.0,11/9/2022 0:00,244.0,Acquired,United States,CA,California,37.7562,-122.443
+235,EverBridge,Boston,Other,200.0,11/8/2022 0:00,476.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+236,Repertoire Immune Medicines,Boston,Healthcare,65.0,11/8/2022 0:00,257.0,Series B,United States,MA,Massachusetts,42.3188,-71.0846
+237,Salesforce,San Francisco,Sales,1000.0,11/7/2022 0:00,65.0,Post-IPO,United States,CA,California,37.7562,-122.443
+238,Zendesk,San Francisco,Support,350.0,11/7/2022 0:00,85.0,Acquired,United States,CA,California,37.7562,-122.443
+239,Varonis,New York,Security,110.0,11/6/2022 0:00,30.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+240,Twitter,San Francisco,Consumer,3700.0,11/4/2022 0:00,12900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+241,Stripe,San Francisco,Finance,1000.0,11/3/2022 0:00,2300.0,Series H,United States,CA,California,37.7562,-122.443
+242,Lyft,San Francisco,Transportation,700.0,11/3/2022 0:00,4900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+243,Shippo,San Francisco,Logistics,60.0,11/3/2022 0:00,154.0,Series E,United States,CA,California,37.7562,-122.443
+244,Opendoor,San Francisco,Real Estate,550.0,11/2/2022 0:00,1900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+245,Chime,San Francisco,Finance,156.0,11/2/2022 0:00,2300.0,Series G,United States,CA,California,37.7562,-122.443
+246,Chargebee,San Francisco,Finance,142.0,11/2/2022 0:00,468.0,Series H,United States,CA,California,37.7562,-122.443
+247,Iron Ox,San Francisco,Food,50.0,11/2/2022 0:00,103.0,Series C,United States,CA,California,37.7562,-122.443
+248,Argo AI,San Francisco,Transportation,259.0,11/1/2022 0:00,3600.0,Unknown,United States,CA,California,37.7562,-122.443
+249,Upstart,San Francisco,Finance,140.0,11/1/2022 0:00,144.0,Post-IPO,United States,CA,California,37.7562,-122.443
+250,Gem,San Francisco,Recruiting,100.0,11/1/2022 0:00,148.0,Series C,United States,CA,California,37.7562,-122.443
+251,Notarize,Boston,Legal,60.0,10/31/2022 0:00,213.0,Series D,United States,MA,Massachusetts,42.3188,-71.0846
+252,EquityZen,New York,Finance,30.0,10/31/2022 0:00,11.0,Series B,United States,NY,New York,40.6943,-73.9249
+253,Equitybee,San Francisco,Finance,25.0,10/31/2022 0:00,85.0,Series B,United States,CA,California,37.7562,-122.443
+254,Amazon,Seattle,Retail,150.0,10/28/2022 0:00,108.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+255,Fifth Season,Pittsburgh,Food,100.0,10/28/2022 0:00,35.0,Series B,United States,PA,Pennsylvania,40.4396,-79.9762
+256,Recharge,Los Angeles,Finance,84.0,10/27/2022 0:00,277.0,Series B,United States,CA,California,34.1139,-118.4068
+257,Lattice,San Francisco,HR,13.0,10/27/2022 0:00,328.0,Series F,United States,CA,California,37.7562,-122.443
+258,Zillow,Seattle,Real Estate,300.0,10/26/2022 0:00,97.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+259,Cybereason,Boston,Security,200.0,10/26/2022 0:00,750.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+260,Argo AI,Pittsburgh,Transportation,173.0,10/26/2022 0:00,3600.0,Unknown,United States,PA,Pennsylvania,40.4396,-79.9762
+261,Fundbox,San Francisco,Finance,150.0,10/25/2022 0:00,553.0,Series D,United States,CA,California,37.7562,-122.443
+262,Embroker,San Francisco,Finance,30.0,10/25/2022 0:00,142.0,Series C,United States,CA,California,37.7562,-122.443
+263,Cerebral,San Francisco,Healthcare,400.0,10/24/2022 0:00,462.0,Series C,United States,CA,California,37.7562,-122.443
+264,Snyk,Boston,Security,198.0,10/24/2022 0:00,849.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+265,Khoros,Austin,Sales,120.0,10/21/2022 0:00,138.0,Private Equity,United States,TX,Texas,30.3004,-97.7522
+266,Zeus Living,San Francisco,Real Estate,64.0,10/20/2022 0:00,151.0,Series C,United States,CA,California,37.7562,-122.443
+267,Loom,San Francisco,Product,23.0,10/20/2022 0:00,203.0,Series C,United States,CA,California,37.7562,-122.443
+268,Sales Boomerang,Baltimore,Sales,20.0,10/20/2022 0:00,5.0,Private Equity,United States,MD,Maryland,39.3051,-76.6144
+269,Gopuff,Philadelphia,Food,250.0,10/19/2022 0:00,3400.0,Series H,United States,PA,Pennsylvania,40.0077,-75.1339
+270,AtoB,San Francisco,Finance,32.0,10/19/2022 0:00,177.0,Series B,United States,CA,California,37.7562,-122.443
+271,Faire,San Francisco,Retail,84.0,10/18/2022 0:00,1700.0,Series G,United States,CA,California,37.7562,-122.443
+272,Leafly,Seattle,Retail,56.0,10/18/2022 0:00,71.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+273,Flipboard,San Francisco,Media,24.0,10/16/2022 0:00,235.0,Unknown,United States,CA,California,37.7562,-122.443
+274,Beyond Meat,Los Angeles,Food,200.0,10/14/2022 0:00,122.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+275,Salesforce,San Francisco,Sales,90.0,10/13/2022 0:00,65.0,Post-IPO,United States,CA,California,37.7562,-122.443
+276,Playdots,New York,Consumer,65.0,10/13/2022 0:00,10.0,Acquired,United States,NY,New York,40.6943,-73.9249
+277,6sense,San Francisco,Sales,150.0,10/12/2022 0:00,426.0,Series E,United States,CA,California,37.7562,-122.443
+278,Noom,New York,Healthcare,500.0,10/11/2022 0:00,657.0,Series F,United States,NY,New York,40.6943,-73.9249
+279,Brex,San Francisco,Finance,136.0,10/11/2022 0:00,1500.0,Series D,United States,CA,California,37.7562,-122.443
+280,Pacaso,San Francisco,Real Estate,100.0,10/11/2022 0:00,217.0,Series C,United States,CA,California,37.7562,-122.443
+281,Udacity,San Francisco,Education,55.0,10/11/2022 0:00,235.0,Unknown,United States,CA,California,37.7562,-122.443
+282,HelloFresh,San Francisco,Food,611.0,10/10/2022 0:00,367.0,Post-IPO,United States,CA,California,37.7562,-122.443
+283,Momentive,San Francisco,Marketing,180.0,10/10/2022 0:00,1100.0,Post-IPO,United States,CA,California,37.7562,-122.443
+284,Pavilion Data,San Francisco,Infrastructure,96.0,10/10/2022 0:00,103.0,Series D,United States,CA,California,37.7562,-122.443
+285,Redesign Health,New York,Healthcare,67.0,10/10/2022 0:00,315.0,Series C,United States,NY,New York,40.6943,-73.9249
+286,BioMarin,San Francisco,Healthcare,120.0,10/7/2022 0:00,585.0,Post-IPO,United States,CA,California,37.7562,-122.443
+287,Rev.com,Austin,Data,85.0,10/7/2022 0:00,30.0,Series D,United States,TX,Texas,30.3004,-97.7522
+288,Peloton,New York,Fitness,500.0,10/6/2022 0:00,1900.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+289,Impossible Foods,San Francisco,Food,50.0,10/6/2022 0:00,1900.0,Series H,United States,CA,California,37.7562,-122.443
+290,Built In,Chicago,Recruiting,50.0,10/5/2022 0:00,29.0,Series C,United States,IL,Illinois,41.8373,-87.6862
+291,8x8,San Francisco,Support,200.0,10/4/2022 0:00,253.0,Post-IPO,United States,CA,California,37.7562,-122.443
+292,Homie,Salt Lake City,Real Estate,40.0,10/4/2022 0:00,35.0,Series B,United States,UT,Utah,40.7777,-111.9306
+293,Spin,San Francisco,Transportation,78.0,9/30/2022 0:00,8.0,Acquired,United States,CA,California,37.7562,-122.443
+294,Mux,San Francisco,Infrastructure,40.0,9/29/2022 0:00,173.0,Series D,United States,CA,California,37.7562,-122.443
+295,DocuSign,San Francisco,Sales,671.0,9/28/2022 0:00,536.0,Post-IPO,United States,CA,California,37.7562,-122.443
+296,Divvy Homes,San Francisco,Real Estate,40.0,9/27/2022 0:00,180.0,Series B,United States,CA,California,37.7562,-122.443
+297,Foxtrot,Chicago,Food,26.0,9/23/2022 0:00,166.0,Series C,United States,IL,Illinois,41.8373,-87.6862
+298,NYDIG,New York,Crypto,110.0,9/22/2022 0:00,1400.0,Private Equity,United States,NY,New York,40.6943,-73.9249
+299,Kitty Hawk,San Francisco,Aerospace,100.0,9/21/2022 0:00,1.0,Unknown,United States,CA,California,37.7562,-122.443
+300,Compass,New York,Real Estate,271.0,9/20/2022 0:00,1600.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+301,Curative,Los Angeles,Healthcare,109.0,9/20/2022 0:00,8.0,Seed,United States,CA,California,34.1139,-118.4068
+302,Vesalius Therapeutics,Boston,Healthcare,29.0,9/19/2022 0:00,75.0,Series B,United States,MA,Massachusetts,42.3188,-71.0846
+303,LivePerson,New York,Support,193.0,9/15/2022 0:00,42.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+304,WorkRamp,San Francisco,HR,35.0,9/15/2022 0:00,67.0,Series C,United States,CA,California,37.7562,-122.443
+305,Twilio,San Francisco,Other,800.0,9/14/2022 0:00,614.0,Post-IPO,United States,CA,California,37.7562,-122.443
+306,Netflix,San Francisco,Media,30.0,9/14/2022 0:00,121900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+307,Rubius,Boston,Healthcare,160.0,9/13/2022 0:00,445.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+308,Taboola,New York,Marketing,100.0,9/13/2022 0:00,445.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+309,Patreon,San Francisco,Media,80.0,9/13/2022 0:00,413.0,Series F,United States,CA,California,37.7562,-122.443
+310,Mode Analytics,San Francisco,Data,25.0,9/12/2022 0:00,81.0,Series D,United States,CA,California,37.7562,-122.443
+311,Patreon,San Francisco,Media,5.0,9/9/2022 0:00,413.0,Series F,United States,CA,California,37.7562,-122.443
+312,Genome Medical,San Francisco,Healthcare,23.0,9/8/2022 0:00,120.0,Series C,United States,CA,California,37.7562,-122.443
+313,Intercom,San Francisco,Support,49.0,9/7/2022 0:00,240.0,Series D,United States,CA,California,37.7562,-122.443
+314,Pendo,Raleigh,Product,45.0,9/7/2022 0:00,469.0,Series F,United States,NC,North Carolina,35.8325,-78.6435
+315,Demandbase,San Francisco,Sales,27.0,9/7/2022 0:00,143.0,Series H,United States,CA,California,37.7562,-122.443
+316,Brave Care,Portland,Healthcare,40.0,9/6/2022 0:00,42.0,Series B,United States,OR,Oregon,45.5372,-122.65
+317,Innovaccer,San Francisco,Healthcare,90.0,9/1/2022 0:00,379.0,Series E,United States,CA,California,37.7562,-122.443
+318,Snap,Los Angeles,Consumer,1280.0,8/31/2022 0:00,4900.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+319,GoodRx,Los Angeles,Healthcare,140.0,8/31/2022 0:00,910.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+320,Hippo Insurance,San Francisco,Finance,70.0,8/31/2022 0:00,1300.0,Post-IPO,United States,CA,California,37.7562,-122.443
+321,Clari,San Francisco,Sales,45.0,8/31/2022 0:00,496.0,Series F,United States,CA,California,37.7562,-122.443
+322,TCR2,Boston,Healthcare,30.0,8/31/2022 0:00,173.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+323,Apartment List,San Francisco,Real Estate,29.0,8/31/2022 0:00,169.0,Series D,United States,CA,California,37.7562,-122.443
+324,Electric,New York,Other,81.0,8/30/2022 0:00,212.0,Series D,United States,NY,New York,40.6943,-73.9249
+325,Nate,New York,Retail,30.0,8/30/2022 0:00,47.0,Series A,United States,NY,New York,40.6943,-73.9249
+326,54gene,Washington,Healthcare,95.0,8/29/2022 0:00,44.0,Series B,United States,DC,District of Columbia,38.9047,-77.0163
+327,Zymergen,San Francisco,Other,80.0,8/26/2022 0:00,974.0,Acquired,United States,CA,California,37.7562,-122.443
+328,Okta,San Francisco,Security,24.0,8/26/2022 0:00,1200.0,Post-IPO,United States,CA,California,37.7562,-122.443
+329,Argyle,New York,Finance,20.0,8/26/2022 0:00,78.0,Series B,United States,NY,New York,40.6943,-73.9249
+330,FreshDirect,Philadelphia,Food,40.0,8/25/2022 0:00,280.0,Acquired,United States,PA,Pennsylvania,40.0077,-75.1339
+331,Reali,San Francisco,Real Estate,140.0,8/24/2022 0:00,117.0,Series B,United States,CA,California,37.7562,-122.443
+332,Loop,Washington,Finance,15.0,8/24/2022 0:00,24.0,Series A,United States,DC,District of Columbia,38.9047,-77.0163
+333,Packable,New York,Retail,138.0,8/23/2022 0:00,472.0,Unknown,United States,NY,New York,40.6943,-73.9249
+334,Skedulo,San Francisco,HR,31.0,8/23/2022 0:00,114.0,Series C,United States,CA,California,37.7562,-122.443
+335,Plato,San Francisco,HR,29.0,8/23/2022 0:00,3.0,Seed,United States,CA,California,37.7562,-122.443
+336,Tufin,Boston,Security,55.0,8/21/2022 0:00,21.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+337,Amperity,Seattle,Marketing,13.0,8/20/2022 0:00,187.0,Series D,United States,WA,Washington,47.6211,-122.3244
+338,Wayfair,Boston,Retail,870.0,8/19/2022 0:00,1700.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+339,Stripe,San Francisco,Finance,50.0,8/19/2022 0:00,2300.0,Series H,United States,CA,California,37.7562,-122.443
+340,New Relic,San Francisco,Infrastructure,110.0,8/18/2022 0:00,214.0,Post-IPO,United States,CA,California,37.7562,-122.443
+341,Wheel,Austin,Healthcare,35.0,8/18/2022 0:00,215.0,Series C,United States,TX,Texas,30.3004,-97.7522
+342,Malwarebytes,San Francisco,Security,125.0,8/17/2022 0:00,80.0,Series B,United States,CA,California,37.7562,-122.443
+343,Tempo Automation,San Francisco,Other,54.0,8/17/2022 0:00,74.0,Series C,United States,CA,California,37.7562,-122.443
+344,Woven,Indianapolis,HR,5.0,8/16/2022 0:00,11.0,Series A,United States,IN,Indiana,39.7771,-86.1458
+345,Blend,San Francisco,Finance,220.0,8/15/2022 0:00,665.0,Post-IPO,United States,CA,California,37.7562,-122.443
+346,ContraFect,New York,Healthcare,16.0,8/15/2022 0:00,380.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+347,Peloton,New York,Fitness,784.0,8/12/2022 0:00,1900.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+348,Truepill,San Francisco,Healthcare,175.0,8/11/2022 0:00,255.0,Series D,United States,CA,California,37.7562,-122.443
+349,Calm,San Francisco,Healthcare,90.0,8/11/2022 0:00,218.0,Series C,United States,CA,California,37.7562,-122.443
+350,FourKites,Chicago,Logistics,60.0,8/11/2022 0:00,201.0,Series D,United States,IL,Illinois,41.8373,-87.6862
+351,GoHealth,Chicago,Healthcare,800.0,8/9/2022 0:00,75.0,Post-IPO,United States,IL,Illinois,41.8373,-87.6862
+352,Nutanix,San Francisco,Infrastructure,270.0,8/9/2022 0:00,1100.0,Post-IPO,United States,CA,California,37.7562,-122.443
+353,Quanterix,Boston,Healthcare,130.0,8/9/2022 0:00,533.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+354,Melio,New York,Finance,60.0,8/9/2022 0:00,504.0,Series D,United States,NY,New York,40.6943,-73.9249
+355,Shogun,San Francisco,Retail,48.0,8/9/2022 0:00,114.0,Series C,United States,CA,California,37.7562,-122.443
+356,Groupon,Chicago,Retail,500.0,8/8/2022 0:00,1400.0,Post-IPO,United States,IL,Illinois,41.8373,-87.6862
+357,Vroom,New York,Transportation,337.0,8/8/2022 0:00,1300.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+358,Warby Parker,New York,Consumer,63.0,8/8/2022 0:00,535.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+359,Labelbox,San Francisco,Data,36.0,8/8/2022 0:00,188.0,Series D,United States,CA,California,37.7562,-122.443
+360,iRobot,Boston,Consumer,140.0,8/5/2022 0:00,30.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+361,Doma,San Francisco,Finance,250.0,8/4/2022 0:00,679.0,Post-IPO,United States,CA,California,37.7562,-122.443
+362,Jam City,Los Angeles,Consumer,200.0,8/4/2022 0:00,652.0,Unknown,United States,CA,California,34.1139,-118.4068
+363,10X Genomics,San Francisco,Healthcare,100.0,8/4/2022 0:00,242.0,Post-IPO,United States,CA,California,37.7562,-122.443
+364,Zendesk,San Francisco,Support,80.0,8/4/2022 0:00,85.0,Acquired,United States,CA,California,37.7562,-122.443
+365,On Deck,San Francisco,Education,73.0,8/4/2022 0:00,20.0,Series A,United States,CA,California,37.7562,-122.443
+366,RingCentral,San Francisco,Support,50.0,8/4/2022 0:00,44.0,Post-IPO,United States,CA,California,37.7562,-122.443
+367,Healthcare.com,Miami,Healthcare,149.0,8/3/2022 0:00,244.0,Series C,United States,FL,Florida,25.7839,-80.2102
+368,Beyond Meat,Los Angeles,Food,40.0,8/3/2022 0:00,122.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+369,Robinhood,San Francisco,Finance,713.0,8/2/2022 0:00,5600.0,Post-IPO,United States,CA,California,37.7562,-122.443
+370,Latch,New York,Security,115.0,8/2/2022 0:00,342.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+371,Seegrid,Pittsburgh,Logistics,90.0,8/2/2022 0:00,107.0,Unknown,United States,PA,Pennsylvania,40.4396,-79.9762
+372,Nylas,San Francisco,Product,80.0,8/2/2022 0:00,175.0,Series C,United States,CA,California,37.7562,-122.443
+373,Outreach,Seattle,Sales,60.0,8/2/2022 0:00,489.0,Series G,United States,WA,Washington,47.6211,-122.3244
+374,The Predictive Index,Boston,HR,40.0,8/2/2022 0:00,71.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+375,Glossier,New York,Retail,19.0,8/2/2022 0:00,266.0,Series E,United States,NY,New York,40.6943,-73.9249
+376,Imperfect Foods,San Francisco,Food,50.0,7/29/2022 0:00,229.0,Series D,United States,CA,California,37.7562,-122.443
+377,Shelf Engine,Seattle,Food,43.0,7/29/2022 0:00,58.0,Series B,United States,WA,Washington,47.6211,-122.3244
+378,Quantcast,San Francisco,Marketing,40.0,7/29/2022 0:00,65.0,Series C,United States,CA,California,37.7562,-122.443
+379,Ribbon,New York,Real Estate,136.0,7/28/2022 0:00,405.0,Series C,United States,NY,New York,40.6943,-73.9249
+380,Career Karma,San Francisco,Education,60.0,7/28/2022 0:00,51.0,Series B,United States,CA,California,37.7562,-122.443
+381,Metromile,San Francisco,Finance,60.0,7/28/2022 0:00,510.0,Acquired,United States,CA,California,37.7562,-122.443
+382,Allbirds,San Francisco,Retail,23.0,7/28/2022 0:00,202.0,Post-IPO,United States,CA,California,37.7562,-122.443
+383,Rivian,Detroit,Transportation,840.0,7/27/2022 0:00,10700.0,Post-IPO,United States,MI,Michigan,42.3834,-83.1024
+384,Vox Media,Washington,Media,39.0,7/27/2022 0:00,307.0,Series F,United States,DC,District of Columbia,38.9047,-77.0163
+385,Outbrain,New York,Marketing,38.0,7/26/2022 0:00,394.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+386,Dover,San Francisco,Recruiting,23.0,7/26/2022 0:00,22.0,Series A,United States,CA,California,37.7562,-122.443
+387,Zymergen,San Francisco,Other,80.0,7/25/2022 0:00,974.0,Acquired,United States,CA,California,37.7562,-122.443
+388,Pear Therapeutics ,Boston,Healthcare,25.0,7/25/2022 0:00,409.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+389,Workstream,San Francisco,HR,45.0,7/22/2022 0:00,58.0,Series B,United States,CA,California,37.7562,-122.443
+390,Clarify Health,San Francisco,Healthcare,15.0,7/22/2022 0:00,328.0,Series D,United States,CA,California,37.7562,-122.443
+391,WHOOP,Boston,Fitness,95.0,7/21/2022 0:00,404.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+392,Rad Power Bikes,Seattle,Transportation,63.0,7/21/2022 0:00,329.0,Series D,United States,WA,Washington,47.6211,-122.3244
+393,Lunchbox,New York,Food,60.0,7/21/2022 0:00,72.0,Series B,United States,NY,New York,40.6943,-73.9249
+394,RealSelf,Seattle,Healthcare,11.0,7/21/2022 0:00,42.0,Series B,United States,WA,Washington,47.6211,-122.3244
+395,Flyhomes,Seattle,Real Estate,200.0,7/20/2022 0:00,310.0,Series C,United States,WA,Washington,47.6211,-122.3244
+396,Varo,San Francisco,Finance,75.0,7/20/2022 0:00,992.0,Series E,United States,CA,California,37.7562,-122.443
+397,BlueStacks,San Francisco,Other,60.0,7/20/2022 0:00,48.0,Series C,United States,CA,California,37.7562,-122.443
+398,Lyft,San Francisco,Transportation,60.0,7/20/2022 0:00,4900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+399,Splice,New York,Media,23.0,7/20/2022 0:00,159.0,Series D,United States,NY,New York,40.6943,-73.9249
+400,Arc,San Francisco,HR,13.0,7/20/2022 0:00,1.0,Seed,United States,CA,California,37.7562,-122.443
+401,Invitae,San Francisco,Healthcare,1000.0,7/19/2022 0:00,2000.0,Post-IPO,United States,CA,California,37.7562,-122.443
+402,Olive,Columbus,Healthcare,450.0,7/19/2022 0:00,856.0,Series H,United States,OH,Ohio,39.9862,-82.985
+403,M1,Chicago,Finance,38.0,7/19/2022 0:00,323.0,Series E,United States,IL,Illinois,41.8373,-87.6862
+404,PACT Pharma,San Francisco,Healthcare,94.0,7/18/2022 0:00,200.0,Series C,United States,CA,California,37.7562,-122.443
+405,Gemini,New York,Crypto,68.0,7/18/2022 0:00,423.0,Unknown,United States,NY,New York,40.6943,-73.9249
+406,Lusha,New York,Marketing,30.0,7/18/2022 0:00,245.0,Series B,United States,NY,New York,40.6943,-73.9249
+407,Project44,Chicago,Logistics,63.0,7/15/2022 0:00,817.0,Unknown,United States,IL,Illinois,41.8373,-87.6862
+408,Aspire,San Francisco,Marketing,23.0,7/15/2022 0:00,27.0,Series A,United States,CA,California,37.7562,-122.443
+409,The Mom Project,Chicago,HR,54.0,7/14/2022 0:00,115.0,Series C,United States,IL,Illinois,41.8373,-87.6862
+410,Unstoppable Domains,San Francisco,Crypto,42.0,7/14/2022 0:00,7.0,Series B,United States,CA,California,37.7562,-122.443
+411,Kiavi,San Francisco,Real Estate,39.0,7/14/2022 0:00,240.0,Series E,United States,CA,California,37.7562,-122.443
+412,Tonal,San Francisco,Fitness,262.0,7/13/2022 0:00,450.0,Series E,United States,CA,California,37.7562,-122.443
+413,Fabric,New York,Logistics,120.0,7/13/2022 0:00,336.0,Series C,United States,NY,New York,40.6943,-73.9249
+414,ChowNow,Los Angeles,Food,100.0,7/13/2022 0:00,64.0,Series C,United States,CA,California,34.1139,-118.4068
+415,100 Thieves,Los Angeles,Consumer,12.0,7/13/2022 0:00,120.0,Series C,United States,CA,California,34.1139,-118.4068
+416,Nuro,San Francisco,Transportation,7.0,7/13/2022 0:00,2100.0,Series D,United States,CA,California,37.7562,-122.443
+417,Gopuff,Philadelphia,Food,1500.0,7/12/2022 0:00,3400.0,Series H,United States,PA,Pennsylvania,40.0077,-75.1339
+418,Hubilo,San Francisco,Marketing,45.0,7/12/2022 0:00,153.0,Series B,United States,CA,California,37.7562,-122.443
+419,SundaySky,New York,Marketing,24.0,7/11/2022 0:00,74.0,Series D,United States,NY,New York,40.6943,-73.9249
+420,Butler Hospitality,New York,Food,1000.0,7/8/2022 0:00,50.0,Series B,United States,NY,New York,40.6943,-73.9249
+421,Calibrate,New York,Healthcare,156.0,7/8/2022 0:00,127.0,Series B,United States,NY,New York,40.6943,-73.9249
+422,Argo AI,Pittsburgh,Transportation,150.0,7/7/2022 0:00,3600.0,Unknown,United States,PA,Pennsylvania,40.4396,-79.9762
+423,Next Insurance,San Francisco,Finance,150.0,7/7/2022 0:00,881.0,Series E,United States,CA,California,37.7562,-122.443
+424,Emotive,Los Angeles,Marketing,30.0,7/7/2022 0:00,78.0,Series B,United States,CA,California,34.1139,-118.4068
+425,Remote,San Francisco,HR,100.0,7/6/2022 0:00,496.0,Series C,United States,CA,California,37.7562,-122.443
+426,SQream,New York,Data,30.0,7/6/2022 0:00,77.0,Series B,United States,NY,New York,40.6943,-73.9249
+427,Bizzabo,New York,Marketing,120.0,7/5/2022 0:00,194.0,Series E,United States,NY,New York,40.6943,-73.9249
+428,Verbit,New York,Data,80.0,7/5/2022 0:00,569.0,Series E,United States,NY,New York,40.6943,-73.9249
+429,Outschool,San Francisco,Education,31.0,7/5/2022 0:00,240.0,Series D,United States,CA,California,37.7562,-122.443
+430,Transmit Security,Boston,Security,27.0,7/5/2022 0:00,583.0,Series A,United States,MA,Massachusetts,42.3188,-71.0846
+431,Thimble,New York,Finance,20.0,7/5/2022 0:00,28.0,Series A,United States,NY,New York,40.6943,-73.9249
+432,Celsius,New York,Crypto,150.0,7/3/2022 0:00,864.0,Series B,United States,NY,New York,40.6943,-73.9249
+433,WanderJaunt,San Francisco,Travel,85.0,7/1/2022 0:00,26.0,Series B,United States,CA,California,37.7562,-122.443
+434,Canoo,Los Angeles,Transportation,58.0,7/1/2022 0:00,300.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+435,Teleport,San Francisco,Infrastructure,15.0,7/1/2022 0:00,169.0,Series C,United States,CA,California,37.7562,-122.443
+436,Enjoy,San Francisco,Retail,400.0,6/30/2022 0:00,310.0,Post-IPO,United States,CA,California,37.7562,-122.443
+437,Stash Financial,New York,Finance,40.0,6/30/2022 0:00,480.0,Unknown,United States,NY,New York,40.6943,-73.9249
+438,Nate,New York,Retail,30.0,6/30/2022 0:00,47.0,Series A,United States,NY,New York,40.6943,-73.9249
+439,Snyk,Boston,Security,30.0,6/30/2022 0:00,849.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+440,Abra,San Francisco,Crypto,12.0,6/30/2022 0:00,106.0,Series C,United States,CA,California,37.7562,-122.443
+441,Unity,San Francisco,Other,200.0,6/29/2022 0:00,1300.0,Post-IPO,United States,CA,California,37.7562,-122.443
+442,Niantic,San Francisco,Consumer,85.0,6/29/2022 0:00,770.0,Series D,United States,CA,California,37.7562,-122.443
+443,AvantStay,Los Angeles,Travel,80.0,6/29/2022 0:00,811.0,Unknown,United States,CA,California,34.1139,-118.4068
+444,Qumulo,Seattle,Data,80.0,6/29/2022 0:00,347.0,Series E,United States,WA,Washington,47.6211,-122.3244
+445,Baton,San Francisco,Transportation,16.0,6/29/2022 0:00,13.0,Series A,United States,CA,California,37.7562,-122.443
+446,Substack,San Francisco,Media,13.0,6/29/2022 0:00,82.0,Series B,United States,CA,California,37.7562,-122.443
+447,StockX,Detroit,Retail,120.0,6/28/2022 0:00,690.0,Series E,United States,MI,Michigan,42.3834,-83.1024
+448,Sidecar Health,Los Angeles,Healthcare,110.0,6/28/2022 0:00,163.0,Series C,United States,CA,California,34.1139,-118.4068
+449,StockX,Detroit,Retail,80.0,6/28/2022 0:00,690.0,Series E,United States,MI,Michigan,42.3834,-83.1024
+450,AppLovin,San Francisco,Marketing,300.0,6/27/2022 0:00,1600.0,Post-IPO,United States,CA,California,37.7562,-122.443
+451,UiPath,New York,Data,210.0,6/27/2022 0:00,2000.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+452,Cue,San Diego,Healthcare,170.0,6/27/2022 0:00,999.0,Post-IPO,United States,CA,California,32.8312,-117.1225
+453,SafeGraph,San Francisco,Data,27.0,6/27/2022 0:00,61.0,Series B,United States,CA,California,37.7562,-122.443
+454,Postscript,San Francisco,Marketing,43.0,6/26/2022 0:00,106.0,Series C,United States,CA,California,37.7562,-122.443
+455,Sunday,Atlanta,Finance,90.0,6/24/2022 0:00,124.0,Series A,United States,GA,Georgia,33.7627,-84.4224
+456,Bestow,Dallas,Finance,41.0,6/24/2022 0:00,137.0,Series C,United States,TX,Texas,32.7936,-96.7662
+457,Ethos Life,San Francisco,Finance,40.0,6/24/2022 0:00,406.0,Series D,United States,CA,California,37.7562,-122.443
+458,Netflix,San Francisco,Media,300.0,6/23/2022 0:00,121900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+459,Aura,Boston,Security,70.0,6/23/2022 0:00,500.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+460,Vouch,San Francisco,Finance,15.0,6/23/2022 0:00,159.0,Series C,United States,CA,California,37.7562,-122.443
+461,Voyage SMS,Los Angeles,Marketing,8.0,6/23/2022 0:00,10.0,Unknown,United States,CA,California,34.1139,-118.4068
+462,MasterClass,San Francisco,Education,120.0,6/22/2022 0:00,461.0,Series E,United States,CA,California,37.7562,-122.443
+463,IronNet,Washington,Security,90.0,6/22/2022 0:00,410.0,Post-IPO,United States,DC,District of Columbia,38.9047,-77.0163
+464,Bungalow,San Francisco,Real Estate,70.0,6/22/2022 0:00,171.0,Series C,United States,CA,California,37.7562,-122.443
+465,IronNet,Washington,Security,55.0,6/22/2022 0:00,410.0,Post-IPO,United States,DC,District of Columbia,38.9047,-77.0163
+466,Sprinklr,New York,Support,50.0,6/22/2022 0:00,429.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+467,Superpedestrian,Boston,Transportation,35.0,6/22/2022 0:00,261.0,Series C,United States,MA,Massachusetts,42.3188,-71.0846
+468,Balto,St. Louis,Sales,30.0,6/22/2022 0:00,51.0,Series B,United States,MO,Missouri,38.6358,-90.2451
+469,TaskUs,Los Angeles,Support,52.0,6/21/2022 0:00,279.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+470,Community,Los Angeles,Marketing,40.0,6/21/2022 0:00,40.0,Unknown,United States,CA,California,34.1139,-118.4068
+471,Sourcegraph,San Francisco,Product,24.0,6/21/2022 0:00,248.0,Series D,United States,CA,California,37.7562,-122.443
+472,SummerBio,San Francisco,Healthcare,101.0,6/20/2022 0:00,7.0,Unknown,United States,CA,California,37.7562,-122.443
+473,Finite State,Columbus,Security,16.0,6/17/2022 0:00,49.0,Series B,United States,OH,Ohio,39.9862,-82.985
+474,JOKR,New York,Food,50.0,6/16/2022 0:00,430.0,Series B,United States,NY,New York,40.6943,-73.9249
+475,Zumper,San Francisco,Real Estate,45.0,6/16/2022 0:00,178.0,Series D,United States,CA,California,37.7562,-122.443
+476,Weee!,San Francisco,Food,150.0,6/15/2022 0:00,863.0,Series E,United States,CA,California,37.7562,-122.443
+477,Notarize,Boston,Legal,110.0,6/15/2022 0:00,213.0,Series D,United States,MA,Massachusetts,42.3188,-71.0846
+478,Tonkean,San Francisco,Other,23.0,6/15/2022 0:00,83.0,Series B,United States,CA,California,37.7562,-122.443
+479,Coinbase,San Francisco,Crypto,1100.0,6/14/2022 0:00,549.0,Post-IPO,United States,CA,California,37.7562,-122.443
+480,Redfin,Seattle,Real Estate,470.0,6/14/2022 0:00,319.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+481,Compass,New York,Real Estate,450.0,6/14/2022 0:00,1600.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+482,BlockFi,New York,Crypto,250.0,6/13/2022 0:00,1000.0,Series E,United States,NY,New York,40.6943,-73.9249
+483,Wave Sports and Entertainment,Los Angeles,Media,56.0,6/13/2022 0:00,65.0,Series B,United States,CA,California,34.1139,-118.4068
+484,Studio,San Francisco,Education,33.0,6/13/2022 0:00,50.0,Series B,United States,CA,California,37.7562,-122.443
+485,Albert,Los Angeles,Finance,20.0,6/10/2022 0:00,175.0,Series C,United States,CA,California,34.1139,-118.4068
+486,OneTrust,Atlanta,Security,950.0,6/9/2022 0:00,926.0,Series C,United States,GA,Georgia,33.7627,-84.4224
+487,Stitch Fix,San Francisco,Retail,330.0,6/9/2022 0:00,79.0,Post-IPO,United States,CA,California,37.7562,-122.443
+488,Convoy,Seattle,Logistics,90.0,6/9/2022 0:00,1100.0,Series E,United States,WA,Washington,47.6211,-122.3244
+489,Hologram,Chicago,Infrastructure,80.0,6/9/2022 0:00,82.0,Series B,United States,IL,Illinois,41.8373,-87.6862
+490,The Grommet,Boston,Retail,40.0,6/9/2022 0:00,5.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+491,Preply,Boston,Education,26.0,6/9/2022 0:00,100.0,Series C,United States,MA,Massachusetts,42.3188,-71.0846
+492,Sonder,San Francisco,Travel,250.0,6/8/2022 0:00,839.0,Post-IPO,United States,CA,California,37.7562,-122.443
+493,Truepill,San Francisco,Healthcare,150.0,6/8/2022 0:00,255.0,Series D,United States,CA,California,37.7562,-122.443
+494,Bird,Los Angeles,Transportation,138.0,6/7/2022 0:00,783.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+495,ID.me,Washington,Security,130.0,6/7/2022 0:00,275.0,Unknown,United States,DC,District of Columbia,38.9047,-77.0163
+496,KiwiCo,San Francisco,Retail,40.0,6/7/2022 0:00,11.0,Unknown,United States,CA,California,37.7562,-122.443
+497,Superhuman,San Francisco,Consumer,23.0,6/3/2022 0:00,108.0,Series C,United States,CA,California,37.7562,-122.443
+498,Food52,New York,Food,21.0,6/3/2022 0:00,176.0,Acquired,United States,NY,New York,40.6943,-73.9249
+499,Carbon Health,San Francisco,Healthcare,250.0,6/2/2022 0:00,522.0,Series D,United States,CA,California,37.7562,-122.443
+500,PolicyGenius,New York,Finance,170.0,6/2/2022 0:00,286.0,Series E,United States,NY,New York,40.6943,-73.9249
+501,Gemini,New York,Crypto,100.0,6/2/2022 0:00,423.0,Unknown,United States,NY,New York,40.6943,-73.9249
+502,Stord,Atlanta,Logistics,59.0,6/2/2022 0:00,325.0,Series D,United States,GA,Georgia,33.7627,-84.4224
+503,Gather,San Francisco,Consumer,30.0,6/2/2022 0:00,76.0,Series B,United States,CA,California,37.7562,-122.443
+504,Shef,San Francisco,Food,29.0,6/2/2022 0:00,28.0,Series A,United States,CA,California,37.7562,-122.443
+505,IRL,San Francisco,Consumer,25.0,6/2/2022 0:00,197.0,Series C,United States,CA,California,37.7562,-122.443
+506,Cybereason,Boston,Security,100.0,6/1/2022 0:00,750.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+507,Loom,San Francisco,Product,34.0,6/1/2022 0:00,203.0,Series C,United States,CA,California,37.7562,-122.443
+508,Skillshare,New York,Education,31.0,6/1/2022 0:00,136.0,Unknown,United States,NY,New York,40.6943,-73.9249
+509,Eaze,San Francisco,Consumer,25.0,6/1/2022 0:00,202.0,Series D,United States,CA,California,37.7562,-122.443
+510,Replicated,Los Angeles,Infrastructure,50.0,5/31/2022 0:00,85.0,Series C,United States,CA,California,34.1139,-118.4068
+511,BookClub,Salt Lake City,Education,12.0,5/31/2022 0:00,26.0,Series A,United States,UT,Utah,40.7777,-111.9306
+512,Lacework,San Francisco,Security,300.0,5/25/2022 0:00,1900.0,Series D,United States,CA,California,37.7562,-122.443
+513,Bolt,San Francisco,Finance,240.0,5/25/2022 0:00,1300.0,Series E,United States,CA,California,37.7562,-122.443
+514,PeerStreet,Los Angeles,Finance,75.0,5/25/2022 0:00,121.0,Series C,United States,CA,California,34.1139,-118.4068
+515,Coterie Insurance,Cincinnati,Finance,30.0,5/25/2022 0:00,70.0,Series B,United States,OH,Ohio,39.1413,-84.5061
+516,The Zebra,Austin,Finance,40.0,5/24/2022 0:00,256.0,Series D,United States,TX,Texas,30.3004,-97.7522
+517,PayPal,San Francisco,Finance,83.0,5/23/2022 0:00,216.0,Post-IPO,United States,CA,California,37.7562,-122.443
+518,ClickUp,San Diego,Other,60.0,5/23/2022 0:00,537.0,Series C,United States,CA,California,32.8312,-117.1225
+519,Airtime,New York,Consumer,30.0,5/23/2022 0:00,33.0,Series B,United States,NY,New York,40.6943,-73.9249
+520,Latch,New York,Security,130.0,5/20/2022 0:00,342.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+521,Skillz,San Francisco,Consumer,70.0,5/20/2022 0:00,287.0,Post-IPO,United States,CA,California,37.7562,-122.443
+522,Netflix,San Francisco,Media,150.0,5/17/2022 0:00,121900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+523,Picsart,Miami,Consumer,90.0,5/17/2022 0:00,195.0,Series C,United States,FL,Florida,25.7839,-80.2102
+524,Thirty Madison,New York,Healthcare,24.0,5/14/2022 0:00,209.0,Acquired,United States,NY,New York,40.6943,-73.9249
+525,CommonBond,New York,Finance,22.0,5/13/2022 0:00,130.0,Series D,United States,NY,New York,40.6943,-73.9249
+526,Zwift,Los Angeles,Fitness,150.0,5/12/2022 0:00,619.0,Series C,United States,CA,California,34.1139,-118.4068
+527,Section4,New York,Education,32.0,5/12/2022 0:00,37.0,Series A,United States,NY,New York,40.6943,-73.9249
+528,DataRobot,Boston,Data,70.0,5/11/2022 0:00,1000.0,Series G,United States,MA,Massachusetts,42.3188,-71.0846
+529,Carvana,Phoenix,Transportation,2500.0,5/10/2022 0:00,1600.0,Post-IPO,United States,AZ,Arizona,33.5722,-112.0891
+530,Doma,San Francisco,Finance,310.0,5/10/2022 0:00,679.0,Post-IPO,United States,CA,California,37.7562,-122.443
+531,Latch,New York,Security,30.0,5/10/2022 0:00,342.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+532,Vroom,New York,Transportation,270.0,5/9/2022 0:00,1300.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+533,Reef,Miami,Transportation,750.0,5/6/2022 0:00,1500.0,Unknown,United States,FL,Florida,25.7839,-80.2102
+534,Mural,San Francisco,Product,90.0,5/5/2022 0:00,192.0,Series C,United States,CA,California,37.7562,-122.443
+535,On Deck,San Francisco,Education,72.0,5/5/2022 0:00,20.0,Series A,United States,CA,California,37.7562,-122.443
+536,Colossus,Boston,Energy,97.0,5/4/2022 0:00,41.0,Series A,United States,MA,Massachusetts,42.3188,-71.0846
+537,Cameo,Chicago,Consumer,87.0,5/4/2022 0:00,165.0,Unknown,United States,IL,Illinois,41.8373,-87.6862
+538,Mainstreet,San Francisco,Finance,45.0,5/4/2022 0:00,64.0,Series A,United States,CA,California,37.7562,-122.443
+539,Ideoclick,Seattle,Retail,40.0,5/4/2022 0:00,7.0,Series A,United States,WA,Washington,47.6211,-122.3244
+540,Vise,New York,Finance,25.0,5/4/2022 0:00,128.0,Series C,United States,NY,New York,40.6943,-73.9249
+541,Noom,New York,Healthcare,495.0,4/29/2022 0:00,657.0,Series F,United States,NY,New York,40.6943,-73.9249
+542,Domestika,San Francisco,Education,150.0,4/28/2022 0:00,130.0,Series D,United States,CA,California,37.7562,-122.443
+543,Netflix,San Francisco,Media,25.0,4/28/2022 0:00,121900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+544,Robinhood,San Francisco,Finance,340.0,4/26/2022 0:00,5600.0,Post-IPO,United States,CA,California,37.7562,-122.443
+545,Clyde,New York,Marketing,22.0,4/25/2022 0:00,58.0,Series B,United States,NY,New York,40.6943,-73.9249
+546,Lemonade,New York,Finance,52.0,4/20/2022 0:00,481.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+547,Blend,San Francisco,Finance,200.0,4/19/2022 0:00,665.0,Post-IPO,United States,CA,California,37.7562,-122.443
+548,Humble,San Francisco,Media,10.0,4/15/2022 0:00,4.0,Acquired,United States,CA,California,37.7562,-122.443
+549,Ahead,San Francisco,Healthcare,44.0,4/14/2022 0:00,9.0,Unknown,United States,CA,California,37.7562,-122.443
+550,Rad Power Bikes,Seattle,Transportation,100.0,4/12/2022 0:00,329.0,Series D,United States,WA,Washington,47.6211,-122.3244
+551,Food52,New York,Food,20.0,4/8/2022 0:00,176.0,Acquired,United States,NY,New York,40.6943,-73.9249
+552,Workrise,Austin,Energy,450.0,4/5/2022 0:00,752.0,Series E,United States,TX,Texas,30.3004,-97.7522
+553,Gopuff,Philadelphia,Food,450.0,3/29/2022 0:00,3400.0,Series H,United States,PA,Pennsylvania,40.0077,-75.1339
+554,Curology,San Francisco,Healthcare,150.0,3/16/2022 0:00,19.0,Series D,United States,CA,California,37.7562,-122.443
+555,Knock,New York,Real Estate,115.0,3/15/2022 0:00,654.0,Unknown,United States,NY,New York,40.6943,-73.9249
+556,Better.com,New York,Real Estate,3000.0,3/8/2022 0:00,905.0,Unknown,United States,NY,New York,40.6943,-73.9249
+557,Adaptive Biotechnologies,Seattle,Healthcare,100.0,3/8/2022 0:00,406.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+558,Hyperscience,New York,Data,100.0,3/3/2022 0:00,289.0,Series E,United States,NY,New York,40.6943,-73.9249
+559,Wish,San Francisco,Retail,190.0,3/1/2022 0:00,1600.0,Post-IPO,United States,CA,California,37.7562,-122.443
+560,Virgin Hyperloop,Los Angeles,Transportation,111.0,2/21/2022 0:00,368.0,Unknown,United States,CA,California,34.1139,-118.4068
+561,Homie,Salt Lake City,Real Estate,119.0,2/14/2022 0:00,35.0,Series B,United States,UT,Utah,40.7777,-111.9306
+562,Daily Harvest,New York,Food,60.0,2/10/2022 0:00,120.0,Series D,United States,NY,New York,40.6943,-73.9249
+563,Peloton,New York,Fitness,2800.0,2/8/2022 0:00,1900.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+564,Rhino,New York,Real Estate,57.0,2/3/2022 0:00,133.0,Unknown,United States,NY,New York,40.6943,-73.9249
+565,Gopuff,Philadelphia,Food,100.0,1/26/2022 0:00,3400.0,Series H,United States,PA,Pennsylvania,40.0077,-75.1339
+566,Glossier,New York,Consumer,80.0,1/26/2022 0:00,266.0,Series E,United States,NY,New York,40.6943,-73.9249
+567,Root Insurance,Columbus,Finance,330.0,1/20/2022 0:00,527.0,Post-IPO,United States,OH,Ohio,39.9862,-82.985
+568,Better.com,New York,Real Estate,900.0,12/1/2021 0:00,905.0,Unknown,United States,NY,New York,40.6943,-73.9249
+569,BitTitan,Seattle,Data,70.0,11/18/2021 0:00,46.0,Acquired,United States,WA,Washington,47.6211,-122.3244
+570,Zillow,Seattle,Real Estate,2000.0,11/2/2021 0:00,97.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+571,InVision,New York,Product,22.0,10/5/2021 0:00,356.0,Unknown,United States,NY,New York,40.6943,-73.9249
+572,Zymergen,San Francisco,Other,120.0,9/23/2021 0:00,974.0,Post-IPO,United States,CA,California,37.7562,-122.443
+573,Treehouse,Portland,Education,41.0,9/14/2021 0:00,12.0,Series B,United States,OR,Oregon,45.5372,-122.65
+574,Tanium,Seattle,Security,30.0,8/30/2021 0:00,1000.0,Unknown,United States,WA,Washington,47.6211,-122.3244
+575,Flockjay,San Francisco,Education,37.0,8/24/2021 0:00,14.0,Series A,United States,CA,California,37.7562,-122.443
+576,Katerra,San Francisco,Construction,2434.0,6/1/2021 0:00,1600.0,Unknown,United States,CA,California,37.7562,-122.443
+577,Lambda School,San Francisco,Education,65.0,4/29/2021 0:00,122.0,Series C,United States,CA,California,37.7562,-122.443
+578,Patreon,San Francisco,Media,36.0,4/26/2021 0:00,165.0,Series D,United States,CA,California,37.7562,-122.443
+579,New Relic,San Francisco,Infrastructure,160.0,4/6/2021 0:00,214.5,Post-IPO,United States,CA,California,37.7562,-122.443
+580,HuffPo,New York,Media,47.0,3/9/2021 0:00,37.0,Acquired,United States,NY,New York,40.6943,-73.9249
+581,ThredUp,Chicago,Retail,243.0,2/9/2021 0:00,305.0,Series F,United States,IL,Illinois,41.8373,-87.6862
+582,Indigo,Boston,Other,80.0,2/9/2021 0:00,1200.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+583,Shutterfly,San Francisco,Retail,800.0,1/25/2021 0:00,50.0,Acquired,United States,CA,California,37.7562,-122.443
+584,Postmates,San Francisco,Food,180.0,1/23/2021 0:00,763.0,Acquired,United States,CA,California,37.7562,-122.443
+585,Instacart,San Francisco,Food,1877.0,1/21/2021 0:00,2400.0,Unknown,United States,CA,California,37.7562,-122.443
+586,Dropbox,San Francisco,Other,315.0,1/13/2021 0:00,1700.0,Post-IPO,United States,CA,California,37.7562,-122.443
+587,Actifio,Boston,Data,54.0,12/16/2020 0:00,352.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+588,Bridge Connector,Nashville,Healthcare,154.0,11/17/2020 0:00,45.0,Series B,United States,TN,Tennessee,36.1715,-86.7843
+589,Worksmith,Austin,Retail,30.0,11/9/2020 0:00,3.8,Unknown,United States,TX,Texas,30.3004,-97.7522
+590,LivePerson,New York,Support,30.0,11/1/2020 0:00,42.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+591,Remedy,Austin,Healthcare,82.0,10/29/2020 0:00,12.5,Series A,United States,TX,Texas,30.3004,-97.7522
+592,Knotel,New York,Real Estate,20.0,10/29/2020 0:00,560.0,Series C,United States,NY,New York,40.6943,-73.9249
+593,CodeCombat,San Francisco,Education,8.0,10/23/2020 0:00,8.0,Series A,United States,CA,California,37.7562,-122.443
+594,Alto Pharmacy,San Francisco,Healthcare,47.0,9/29/2020 0:00,356.0,Series D,United States,CA,California,37.7562,-122.443
+595,NS8,Las Vegas,Data,240.0,9/11/2020 0:00,157.9,Series A,United States,NV,Nevada,36.2333,-115.2654
+596,Waze,San Francisco,Transportation,30.0,9/9/2020 0:00,67.0,Acquired,United States,CA,California,37.7562,-122.443
+597,Big Fish Games,Seattle,Media,250.0,9/1/2020 0:00,95.2,Acquired,United States,WA,Washington,47.6211,-122.3244
+598,Salesforce,San Francisco,Sales,1000.0,8/26/2020 0:00,65.4,Post-IPO,United States,CA,California,37.7562,-122.443
+599,Mozilla,San Francisco,Consumer,250.0,8/11/2020 0:00,2.3,Unknown,United States,CA,California,37.7562,-122.443
+600,Glossier,New York,Retail,150.0,8/7/2020 0:00,186.4,Series D,United States,NY,New York,40.6943,-73.9249
+601,Vesta,Atlanta,Sales,56.0,8/5/2020 0:00,20.0,Unknown,United States,GA,Georgia,33.7627,-84.4224
+602,Buy.com / Rakuten,San Francisco,Retail,87.0,7/30/2020 0:00,42.4,Acquired,United States,CA,California,37.7562,-122.443
+603,Procore,Los Angeles,Construction,180.0,7/28/2020 0:00,649.0,Unknown,United States,CA,California,34.1139,-118.4068
+604,Checkr,San Francisco,HR,64.0,7/23/2020 0:00,309.0,Series D,United States,CA,California,37.7562,-122.443
+605,LinkedIn,San Francisco,Recruiting,960.0,7/21/2020 0:00,154.0,Acquired,United States,CA,California,37.7562,-122.443
+606,Lighter Capital,Seattle,Finance,22.0,7/20/2020 0:00,15.0,Series B,United States,WA,Washington,47.6211,-122.3244
+607,Optimizely,San Francisco,Marketing,60.0,7/15/2020 0:00,251.2,Series D,United States,CA,California,37.7562,-122.443
+608,Yelp,San Francisco,Consumer,63.0,7/13/2020 0:00,56.0,Post-IPO,United States,CA,California,37.7562,-122.443
+609,Funding Circle,San Francisco,Finance,85.0,7/8/2020 0:00,746.0,Post-IPO,United States,CA,California,37.7562,-122.443
+610,The Wing,New York,Real Estate,56.0,7/1/2020 0:00,117.0,Series C,United States,NY,New York,40.6943,-73.9249
+611,Sharethrough,San Francisco,Marketing,18.0,7/1/2020 0:00,38.0,Series D,United States,CA,California,37.7562,-122.443
+612,Kongregate,San Francisco,Media,12.0,7/1/2020 0:00,19.0,Series C,United States,CA,California,37.7562,-122.443
+613,Havenly,Denver,Consumer,5.0,7/1/2020 0:00,57.8,Series C,United States,CO,Colorado,39.7621,-104.8759
+614,G2,Chicago,Marketing,17.0,6/30/2020 0:00,100.8,Series C,United States,IL,Illinois,41.8373,-87.6862
+615,Katerra,San Francisco,Construction,400.0,6/29/2020 0:00,1300.0,Series E,United States,CA,California,37.7562,-122.443
+616,Bossa Nova,San Francisco,Retail,61.0,6/29/2020 0:00,101.6,Unknown,United States,CA,California,37.7562,-122.443
+617,New Relic,Portland,Infrastructure,20.0,6/29/2020 0:00,214.5,Post-IPO,United States,OR,Oregon,45.5372,-122.65
+618,Sonos,New York,Consumer,174.0,6/24/2020 0:00,455.2,Post-IPO,United States,NY,New York,40.6943,-73.9249
+619,ScaleFactor,Austin,Finance,90.0,6/23/2020 0:00,103.0,Series C,United States,TX,Texas,30.3004,-97.7522
+620,Dark,San Francisco,Product,6.0,6/23/2020 0:00,3.0,Seed,United States,CA,California,37.7562,-122.443
+621,Intuit,San Francisco,Finance,715.0,6/22/2020 0:00,18.0,Post-IPO,United States,CA,California,37.7562,-122.443
+622,Atlas Obscura ,New York,Media,15.0,6/18/2020 0:00,32.0,Series B,United States,NY,New York,40.6943,-73.9249
+623,Splunk,San Francisco,Data,70.0,6/16/2020 0:00,40.0,Post-IPO,United States,CA,California,37.7562,-122.443
+624,SynapseFI,San Francisco,Finance,63.0,6/12/2020 0:00,50.0,Series B,United States,CA,California,37.7562,-122.443
+625,Branch,New York,Retail,3.0,6/11/2020 0:00,2.0,Seed,United States,NY,New York,40.6943,-73.9249
+626,The Athletic,San Francisco,Media,46.0,6/5/2020 0:00,139.0,Series D,United States,CA,California,37.7562,-122.443
+627,Ethos Life,San Francisco,Finance,18.0,6/5/2020 0:00,106.0,Series C,United States,CA,California,37.7562,-122.443
+628,Lastline,San Francisco,Security,50.0,6/4/2020 0:00,52.0,Series C,United States,CA,California,37.7562,-122.443
+629,Builder,Los Angeles,Product,39.0,6/4/2020 0:00,29.0,Series A,United States,CA,California,34.1139,-118.4068
+630,Kitty Hawk,San Francisco,Aerospace,70.0,6/3/2020 0:00,1.0,Unknown,United States,CA,California,37.7562,-122.443
+631,SpotHero,Chicago,Transportation,40.0,6/3/2020 0:00,117.0,Series D,United States,IL,Illinois,41.8373,-87.6862
+632,Credit Sesame,San Francisco,Finance,22.0,6/3/2020 0:00,120.0,Series F,United States,CA,California,37.7562,-122.443
+633,Rivian,Detroit,Transportation,40.0,6/2/2020 0:00,3100.0,Private Equity,United States,MI,Michigan,42.3834,-83.1024
+634,Fundbox,San Francisco,Finance,14.0,6/2/2020 0:00,453.0,Series C,United States,CA,California,37.7562,-122.443
+635,MakerBot,New York,Consumer,12.0,6/2/2020 0:00,10.0,Acquired,United States,NY,New York,40.6943,-73.9249
+636,Stitch Fix,San Francisco,Retail,1400.0,6/1/2020 0:00,79.0,Post-IPO,United States,CA,California,37.7562,-122.443
+637,CrowdStreet,Portland,Real Estate,24.0,6/1/2020 0:00,24.0,Series C,United States,OR,Oregon,45.5372,-122.65
+638,Brex,San Francisco,Finance,62.0,5/29/2020 0:00,732.0,Series C,United States,CA,California,37.7562,-122.443
+639,Loftium,Seattle,Real Estate,32.0,5/29/2020 0:00,17.0,Series A,United States,WA,Washington,47.6211,-122.3244
+640,TrueCar,Los Angeles,Transportation,219.0,5/28/2020 0:00,340.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+641,StubHub,San Francisco,Consumer,200.0,5/28/2020 0:00,19.0,Acquired,United States,CA,California,37.7562,-122.443
+642,The Sill,New York,Retail,20.0,5/28/2020 0:00,7.0,Series A,United States,NY,New York,40.6943,-73.9249
+643,Instructure,Salt Lake City,Education,150.0,5/27/2020 0:00,89.0,Acquired,United States,UT,Utah,40.7777,-111.9306
+644,Bluprint,Denver,Education,137.0,5/26/2020 0:00,108.0,Acquired,United States,CO,Colorado,39.7621,-104.8759
+645,Acorns,Portland,Finance,50.0,5/26/2020 0:00,207.0,Unknown,United States,OR,Oregon,45.5372,-122.65
+646,Cvent,Washington,Marketing,400.0,5/21/2020 0:00,146.0,Acquired,United States,DC,District of Columbia,38.9047,-77.0163
+647,Glitch,New York,Product,18.0,5/21/2020 0:00,30.0,Series A,United States,NY,New York,40.6943,-73.9249
+648,Samsara,San Francisco,Logistics,300.0,5/20/2020 0:00,530.0,Series F,United States,CA,California,37.7562,-122.443
+649,SoFi,San Francisco,Finance,112.0,5/20/2020 0:00,2500.0,Private Equity,United States,CA,California,37.7562,-122.443
+650,Intercom,San Francisco,Support,39.0,5/20/2020 0:00,240.0,Series D,United States,CA,California,37.7562,-122.443
+651,Uber,San Francisco,Transportation,3000.0,5/18/2020 0:00,24700.0,Post-IPO,United States,CA,California,37.7562,-122.443
+652,Rubrik,San Francisco,Infrastructure,57.0,5/18/2020 0:00,553.0,Series E,United States,CA,California,37.7562,-122.443
+653,Lattice,San Francisco,HR,16.0,5/15/2020 0:00,49.0,Series C,United States,CA,California,37.7562,-122.443
+654,Cruise,San Francisco,Transportation,150.0,5/14/2020 0:00,5300.0,Acquired,United States,CA,California,37.7562,-122.443
+655,Integral Ad Science,New York,Marketing,70.0,5/14/2020 0:00,116.0,Acquired,United States,NY,New York,40.6943,-73.9249
+656,Ridecell,San Francisco,Transportation,35.0,5/14/2020 0:00,73.0,Series B,United States,CA,California,37.7562,-122.443
+657,Veem,San Francisco,Finance,30.0,5/14/2020 0:00,69.0,Unknown,United States,CA,California,37.7562,-122.443
+658,Deliv,San Francisco,Retail,669.0,5/13/2020 0:00,80.0,Series C,United States,CA,California,37.7562,-122.443
+659,Kickstarter,New York,Finance,25.0,5/13/2020 0:00,10.0,Unknown,United States,NY,New York,40.6943,-73.9249
+660,Mode Analytics,San Francisco,Data,17.0,5/13/2020 0:00,46.0,Series C,United States,CA,California,37.7562,-122.443
+661,Zeus Living,San Francisco,Real Estate,73.0,5/12/2020 0:00,79.0,Series B,United States,CA,California,37.7562,-122.443
+662,Mixpanel,San Francisco,Data,65.0,5/12/2020 0:00,77.0,Series B,United States,CA,California,37.7562,-122.443
+663,Hireology,Chicago,Recruiting,36.0,5/12/2020 0:00,52.0,Series D,United States,IL,Illinois,41.8373,-87.6862
+664,Cadre,New York,Real Estate,28.0,5/11/2020 0:00,133.0,Series C,United States,NY,New York,40.6943,-73.9249
+665,N26,New York,Finance,9.0,5/8/2020 0:00,782.0,Series D,United States,NY,New York,40.6943,-73.9249
+666,Jump,New York,Transportation,500.0,5/7/2020 0:00,11.0,Acquired,United States,NY,New York,40.6943,-73.9249
+667,Glassdoor,San Francisco,Recruiting,300.0,5/7/2020 0:00,204.0,Acquired,United States,CA,California,37.7562,-122.443
+668,Flywire,Boston,Finance,60.0,5/7/2020 0:00,263.0,Series E,United States,MA,Massachusetts,42.3188,-71.0846
+669,SalesLoft,Atlanta,Sales,55.0,5/7/2020 0:00,145.0,Series D,United States,GA,Georgia,33.7627,-84.4224
+670,Tally,San Francisco,Finance,28.0,5/7/2020 0:00,92.0,Series C,United States,CA,California,37.7562,-122.443
+671,Uber,San Francisco,Transportation,3700.0,5/6/2020 0:00,24700.0,Post-IPO,United States,CA,California,37.7562,-122.443
+672,Flatiron School,New York,Education,100.0,5/6/2020 0:00,15.0,Acquired,United States,NY,New York,40.6943,-73.9249
+673,Rubicon Project,Los Angeles,Marketing,50.0,5/6/2020 0:00,60.0,Post-IPO,United States,CA,California,34.1139,-118.4068
+674,Segment,San Francisco,Data,50.0,5/6/2020 0:00,283.0,Series D,United States,CA,California,37.7562,-122.443
+675,Airbnb,San Francisco,Travel,1900.0,5/5/2020 0:00,5400.0,Private Equity,United States,CA,California,37.7562,-122.443
+676,Juul,San Francisco,Consumer,900.0,5/5/2020 0:00,1500.0,Unknown,United States,CA,California,37.7562,-122.443
+677,Andela,New York,Recruiting,135.0,5/5/2020 0:00,181.0,Series D,United States,NY,New York,40.6943,-73.9249
+678,Stack Overflow,New York,Recruiting,40.0,5/5/2020 0:00,68.0,Series D,United States,NY,New York,40.6943,-73.9249
+679,Workable,Boston,Recruiting,25.0,5/5/2020 0:00,84.0,Series C,United States,MA,Massachusetts,42.3188,-71.0846
+680,LiveTiles,New York,Other,50.0,5/3/2020 0:00,46.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+681,Namely,New York,HR,110.0,5/1/2020 0:00,217.0,Series E,United States,NY,New York,40.6943,-73.9249
+682,Sandbox VR,San Francisco,Consumer,80.0,5/1/2020 0:00,82.0,Series A,United States,CA,California,37.7562,-122.443
+683,Virtudent,Boston,Healthcare,70.0,5/1/2020 0:00,10.0,Series A,United States,MA,Massachusetts,42.3188,-71.0846
+684,TheSkimm,New York,Media,26.0,5/1/2020 0:00,28.0,Series C,United States,NY,New York,40.6943,-73.9249
+685,Bullhorn,Boston,Sales,100.0,4/30/2020 0:00,32.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+686,Care.com,Boston,Consumer,81.0,4/30/2020 0:00,156.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+687,Lyft,San Francisco,Transportation,982.0,4/29/2020 0:00,4900.0,Post-IPO,United States,CA,California,37.7562,-122.443
+688,WeWork,San Francisco,Real Estate,300.0,4/29/2020 0:00,2250.0,Series H,United States,CA,California,37.7562,-122.443
+689,Kitopi,New York,Food,124.0,4/29/2020 0:00,89.0,Series B,United States,NY,New York,40.6943,-73.9249
+690,Lime,San Francisco,Transportation,80.0,4/29/2020 0:00,765.0,Series D,United States,CA,California,37.7562,-122.443
+691,Transfix,New York,Logistics,24.0,4/29/2020 0:00,128.0,Series D,United States,NY,New York,40.6943,-73.9249
+692,TripAdvisor,Boston,Travel,900.0,4/28/2020 0:00,3.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+693,App Annie,San Francisco,Data,80.0,4/28/2020 0:00,156.0,Unknown,United States,CA,California,37.7562,-122.443
+694,OpenX,Los Angeles,Marketing,35.0,4/28/2020 0:00,70.0,Unknown,United States,CA,California,34.1139,-118.4068
+695,PayJoy,San Francisco,Finance,27.0,4/28/2020 0:00,71.0,Series B,United States,CA,California,37.7562,-122.443
+696,Shipsi,Los Angeles,Retail,20.0,4/28/2020 0:00,2.0,Seed,United States,CA,California,34.1139,-118.4068
+697,Automation Anywhere,San Francisco,Other,260.0,4/27/2020 0:00,840.0,Series B,United States,CA,California,37.7562,-122.443
+698,JetClosing,Seattle,Real Estate,20.0,4/27/2020 0:00,24.0,Series A,United States,WA,Washington,47.6211,-122.3244
+699,Divergent 3D,Los Angeles,Transportation,57.0,4/24/2020 0:00,88.0,Series B,United States,CA,California,34.1139,-118.4068
+700,UPshow,Chicago,Marketing,19.0,4/24/2020 0:00,7.0,Series A,United States,IL,Illinois,41.8373,-87.6862
+701,Lighter Capital,Seattle,Finance,18.0,4/24/2020 0:00,15.0,Series B,United States,WA,Washington,47.6211,-122.3244
+702,Welkin Health,San Francisco,Healthcare,10.0,4/24/2020 0:00,29.0,Series B,United States,CA,California,37.7562,-122.443
+703,Jiobit,Chicago,Consumer,6.0,4/24/2020 0:00,12.0,Unknown,United States,IL,Illinois,41.8373,-87.6862
+704,StockX,Detroit,Retail,100.0,4/23/2020 0:00,160.0,Series C,United States,MI,Michigan,42.3834,-83.1024
+705,Zenefits,San Francisco,HR,87.0,4/23/2020 0:00,583.0,Series C,United States,CA,California,37.7562,-122.443
+706,Sisense,New York,Data,80.0,4/23/2020 0:00,274.0,Series F,United States,NY,New York,40.6943,-73.9249
+707,Oscar Health,New York,Healthcare,70.0,4/23/2020 0:00,1300.0,Unknown,United States,NY,New York,40.6943,-73.9249
+708,Simon Data,New York,Marketing,6.0,4/23/2020 0:00,68.0,Series C,United States,NY,New York,40.6943,-73.9249
+709,Magic Leap,Miami,Consumer,1000.0,4/22/2020 0:00,2600.0,Series E,United States,FL,Florida,25.7839,-80.2102
+710,When I Work,Minneapolis,HR,55.0,4/22/2020 0:00,24.0,Series B,United States,MN,Minnesota,44.9635,-93.2678
+711,Ike,San Francisco,Transportation,10.0,4/22/2020 0:00,52.0,Series A,United States,CA,California,37.7562,-122.443
+712,Lending Club,San Francisco,Finance,460.0,4/21/2020 0:00,392.0,Post-IPO,United States,CA,California,37.7562,-122.443
+713,Houzz,San Francisco,Consumer,155.0,4/21/2020 0:00,613.0,Series E,United States,CA,California,37.7562,-122.443
+714,Casper,New York,Retail,78.0,4/21/2020 0:00,339.0,Post-IPO,United States,NY,New York,40.6943,-73.9249
+715,RealSelf,Seattle,Healthcare,40.0,4/21/2020 0:00,42.0,Series B,United States,WA,Washington,47.6211,-122.3244
+716,Patreon,San Francisco,Media,30.0,4/21/2020 0:00,165.0,Series D,United States,CA,California,37.7562,-122.443
+717,Lambda School,San Francisco,Education,19.0,4/21/2020 0:00,48.0,Series B,United States,CA,California,37.7562,-122.443
+718,ConsenSys,New York,Crypto,91.0,4/20/2020 0:00,10.0,Unknown,United States,NY,New York,40.6943,-73.9249
+719,GumGum,Los Angeles,Marketing,90.0,4/20/2020 0:00,58.0,Series D,United States,CA,California,34.1139,-118.4068
+720,Zum,San Francisco,Transportation,28.0,4/20/2020 0:00,71.0,Series C,United States,CA,California,37.7562,-122.443
+721,Komodo Health,San Francisco,Healthcare,23.0,4/20/2020 0:00,50.0,Series C,United States,CA,California,37.7562,-122.443
+722,Forward,San Francisco,Healthcare,10.0,4/20/2020 0:00,100.0,Series C,United States,CA,California,37.7562,-122.443
+723,Greenhouse Software,New York,Recruiting,120.0,4/17/2020 0:00,110.0,Series D,United States,NY,New York,40.6943,-73.9249
+724,Sweetgreen,Los Angeles,Food,35.0,4/17/2020 0:00,478.0,Series I,United States,CA,California,34.1139,-118.4068
+725,People.ai,San Francisco,Marketing,30.0,4/17/2020 0:00,100.0,Series C,United States,CA,California,37.7562,-122.443
+726,Tor,Boston,Security,13.0,4/17/2020 0:00,1.0,Unknown,United States,MA,Massachusetts,42.3188,-71.0846
+727,CarGurus,Boston,Transportation,130.0,4/16/2020 0:00,1.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+728,Opendoor,San Francisco,Real Estate,600.0,4/15/2020 0:00,1500.0,Series E,United States,CA,California,37.7562,-122.443
+729,GoPro,San Francisco,Consumer,200.0,4/15/2020 0:00,288.0,Post-IPO,United States,CA,California,37.7562,-122.443
+730,Zume,San Francisco,Food,200.0,4/15/2020 0:00,423.0,Unknown,United States,CA,California,37.7562,-122.443
+731,Carta,San Francisco,Finance,161.0,4/15/2020 0:00,447.0,Series E,United States,CA,California,37.7562,-122.443
+732,Parsable,San Francisco,HR,40.0,4/15/2020 0:00,72.0,Series C,United States,CA,California,37.7562,-122.443
+733,Kodiak Robotics,San Francisco,Transportation,15.0,4/15/2020 0:00,40.0,Series A,United States,CA,California,37.7562,-122.443
+734,Trove Recommerce,San Francisco,Retail,13.0,4/15/2020 0:00,34.0,Series C,United States,CA,California,37.7562,-122.443
+735,The RealReal,San Francisco,Retail,235.0,4/14/2020 0:00,358.0,Post-IPO,United States,CA,California,37.7562,-122.443
+736,Envoy,San Francisco,HR,58.0,4/14/2020 0:00,59.0,Series B,United States,CA,California,37.7562,-122.443
+737,VSCO,San Francisco,Consumer,45.0,4/14/2020 0:00,90.0,Series B,United States,CA,California,37.7562,-122.443
+738,Skillz,San Francisco,Consumer,21.0,4/14/2020 0:00,132.0,Series D,United States,CA,California,37.7562,-122.443
+739,DataStax,San Francisco,Data,15.0,4/14/2020 0:00,190.0,Series E,United States,CA,California,37.7562,-122.443
+740,Groupon,Chicago,Retail,2800.0,4/13/2020 0:00,1400.0,Post-IPO,United States,IL,Illinois,41.8373,-87.6862
+741,Zoox,San Francisco,Transportation,100.0,4/13/2020 0:00,955.0,Series B,United States,CA,California,37.7562,-122.443
+742,EasyPost,San Francisco,Logistics,50.0,4/13/2020 0:00,12.0,Series A,United States,CA,California,37.7562,-122.443
+743,Frontdesk,Milwaukee,Travel,35.0,4/10/2020 0:00,3.0,Unknown,United States,WI,Wisconsin,43.0642,-87.9673
+744,Built In,Chicago,Recruiting,28.0,4/10/2020 0:00,29.0,Series C,United States,IL,Illinois,41.8373,-87.6862
+745,NuoDB,Boston,Data,20.0,4/10/2020 0:00,85.0,Unknown,United States,MA,Massachusetts,42.3188,-71.0846
+746,Rhumbix,San Francisco,Construction,16.0,4/10/2020 0:00,35.0,Series B,United States,CA,California,37.7562,-122.443
+747,Atsu,Seattle,Infrastructure,6.0,4/10/2020 0:00,1.0,Unknown,United States,WA,Washington,47.6211,-122.3244
+748,Yelp,San Francisco,Consumer,1000.0,4/9/2020 0:00,56.0,Post-IPO,United States,CA,California,37.7562,-122.443
+749,Monzo,Las Vegas,Finance,165.0,4/9/2020 0:00,324.0,Series F,United States,NV,Nevada,36.2333,-115.2654
+750,OneTrust,Atlanta,Legal,150.0,4/9/2020 0:00,410.0,Series B,United States,GA,Georgia,33.7627,-84.4224
+751,Domo,Salt Lake City,Data,90.0,4/9/2020 0:00,689.0,Post-IPO,United States,UT,Utah,40.7777,-111.9306
+752,Matterport,San Francisco,Data,90.0,4/9/2020 0:00,114.0,Series D,United States,CA,California,37.7562,-122.443
+753,Code42,Minneapolis,Data,25.0,4/9/2020 0:00,137.5,Series B,United States,MN,Minnesota,44.9635,-93.2678
+754,Eventbrite,San Francisco,Consumer,500.0,4/8/2020 0:00,332.0,Post-IPO,United States,CA,California,37.7562,-122.443
+755,Scoop,San Francisco,Transportation,92.0,4/8/2020 0:00,95.0,Series C,United States,CA,California,37.7562,-122.443
+756,Unison,San Francisco,Finance,89.0,4/8/2020 0:00,40.0,Series B,United States,CA,California,37.7562,-122.443
+757,Lever,San Francisco,Recruiting,86.0,4/8/2020 0:00,72.0,Series C,United States,CA,California,37.7562,-122.443
+758,Button,New York,Marketing,48.0,4/8/2020 0:00,64.0,Series C,United States,NY,New York,40.6943,-73.9249
+759,Eden / Managed By Q,New York,Real Estate,40.0,4/8/2020 0:00,40.0,Series B,United States,NY,New York,40.6943,-73.9249
+760,Quantcast,San Francisco,Marketing,30.0,4/8/2020 0:00,65.0,Series C,United States,CA,California,37.7562,-122.443
+761,VideoAmp,Los Angeles,Marketing,21.0,4/8/2020 0:00,106.0,Series C,United States,CA,California,34.1139,-118.4068
+762,Spyce,Boston,Food,4.0,4/8/2020 0:00,26.0,Series A,United States,MA,Massachusetts,42.3188,-71.0846
+763,Toast,Boston,Food,1300.0,4/7/2020 0:00,902.0,Series F,United States,MA,Massachusetts,42.3188,-71.0846
+764,ezCater,Boston,Food,400.0,4/7/2020 0:00,319.0,Series D,United States,MA,Massachusetts,42.3188,-71.0846
+765,Sage Therapeutics,Boston,Healthcare,340.0,4/7/2020 0:00,438.0,Post-IPO,United States,MA,Massachusetts,42.3188,-71.0846
+766,Redfin,Seattle,Real Estate,236.0,4/7/2020 0:00,319.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+767,Branch Metrics,San Francisco,Marketing,100.0,4/7/2020 0:00,367.0,Series E,United States,CA,California,37.7562,-122.443
+768,Ibotta,Denver,Retail,87.0,4/7/2020 0:00,85.0,Series D,United States,CO,Colorado,39.7621,-104.8759
+769,Virta Health,San Francisco,Healthcare,65.0,4/7/2020 0:00,175.0,Series C,United States,CA,California,37.7562,-122.443
+770,Away,New York,Retail,60.0,4/7/2020 0:00,181.0,Series D,United States,NY,New York,40.6943,-73.9249
+771,MediaMath,New York,Marketing,53.0,4/7/2020 0:00,607.0,Private Equity,United States,NY,New York,40.6943,-73.9249
+772,Group Nine Media,New York,Media,50.0,4/7/2020 0:00,190.0,Unknown,United States,NY,New York,40.6943,-73.9249
+773,Nav,Salt Lake City,Finance,30.0,4/7/2020 0:00,99.0,Series C,United States,UT,Utah,40.7777,-111.9306
+774,Metromile,San Francisco,Finance,100.0,4/6/2020 0:00,293.0,Series E,United States,CA,California,37.7562,-122.443
+775,BounceX,New York,Marketing,77.0,4/6/2020 0:00,75.0,Series B,United States,NY,New York,40.6943,-73.9249
+776,Wordstream,Boston,Marketing,26.0,4/6/2020 0:00,28.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+777,Cogito,Boston,Support,24.0,4/6/2020 0:00,92.0,Series C,United States,MA,Massachusetts,42.3188,-71.0846
+778,PerkSpot,Chicago,HR,10.0,4/6/2020 0:00,50.0,Private Equity,United States,IL,Illinois,41.8373,-87.6862
+779,Astra,San Francisco,Aerospace,40.0,4/5/2020 0:00,100.0,Unknown,United States,CA,California,37.7562,-122.443
+780,Sojern,San Francisco,Marketing,300.0,4/3/2020 0:00,162.0,Series D,United States,CA,California,37.7562,-122.443
+781,Minted,San Francisco,Retail,147.0,4/3/2020 0:00,297.0,Series E,United States,CA,California,37.7562,-122.443
+782,Velodyne Lidar,San Francisco,Transportation,140.0,4/3/2020 0:00,225.0,Unknown,United States,CA,California,37.7562,-122.443
+783,Zoox,San Francisco,Transportation,120.0,4/3/2020 0:00,955.0,Series B,United States,CA,California,37.7562,-122.443
+784,Arrive Logistics,Austin,Logistics,75.0,4/3/2020 0:00,35.0,Series B,United States,TX,Texas,30.3004,-97.7522
+785,Salsify,Boston,Retail,60.0,4/3/2020 0:00,97.0,Series D,United States,MA,Massachusetts,42.3188,-71.0846
+786,Jetty,New York,Finance,35.0,4/3/2020 0:00,40.0,Series B,United States,NY,New York,40.6943,-73.9249
+787,D2iQ,San Francisco,Infrastructure,34.0,4/3/2020 0:00,247.0,Series D,United States,CA,California,37.7562,-122.443
+788,Bustle Digital Group,New York,Media,24.0,4/3/2020 0:00,80.0,Series E,United States,NY,New York,40.6943,-73.9249
+789,Bustle Digital Group,New York,Media,19.0,4/3/2020 0:00,80.0,Series E,United States,NY,New York,40.6943,-73.9249
+790,Anagram,Los Angeles,Healthcare,17.0,4/3/2020 0:00,14.0,Series A,United States,CA,California,34.1139,-118.4068
+791,DSCO,Salt Lake City,Retail,12.0,4/3/2020 0:00,4.0,Series A,United States,UT,Utah,40.7777,-111.9306
+792,Katerra,San Francisco,Construction,240.0,4/2/2020 0:00,1200.0,Series D,United States,CA,California,37.7562,-122.443
+793,ClassPass,New York,Fitness,154.0,4/2/2020 0:00,549.0,Series E,United States,NY,New York,40.6943,-73.9249
+794,Industrious,New York,Real Estate,90.0,4/2/2020 0:00,222.0,Series D,United States,NY,New York,40.6943,-73.9249
+795,1stdibs,New York,Retail,70.0,4/2/2020 0:00,253.0,Series D,United States,NY,New York,40.6943,-73.9249
+796,ThirdLove,San Francisco,Retail,65.0,4/2/2020 0:00,68.0,Series B,United States,CA,California,37.7562,-122.443
+797,Latch,New York,Security,60.0,4/2/2020 0:00,152.0,Series B,United States,NY,New York,40.6943,-73.9249
+798,The Predictive Index,Boston,HR,59.0,4/2/2020 0:00,65.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+799,Jobcase,Boston,Recruiting,39.0,4/2/2020 0:00,118.0,Private Equity,United States,MA,Massachusetts,42.3188,-71.0846
+800,Copper,San Francisco,Marketing,35.0,4/2/2020 0:00,102.0,Series C,United States,CA,California,37.7562,-122.443
+801,Dynamic Signal,San Francisco,HR,35.0,4/2/2020 0:00,114.0,Series E,United States,CA,California,37.7562,-122.443
+802,FiscalNote,Washington,Media,30.0,4/2/2020 0:00,50.0,Series D,United States,DC,District of Columbia,38.9047,-77.0163
+803,Sauce Labs,San Francisco,Infrastructure,30.0,4/2/2020 0:00,151.0,Unknown,United States,CA,California,37.7562,-122.443
+804,Humu,San Francisco,HR,26.0,4/2/2020 0:00,40.0,Series B,United States,CA,California,37.7562,-122.443
+805,TripleLift,New York,Marketing,23.0,4/2/2020 0:00,16.0,Series B,United States,NY,New York,40.6943,-73.9249
+806,Coding Dojo,Seattle,Education,7.0,4/2/2020 0:00,2.0,Unknown,United States,WA,Washington,47.6211,-122.3244
+807,Synergysuite,Salt Lake City,Food,5.0,4/2/2020 0:00,6.0,Series A,United States,UT,Utah,40.7777,-111.9306
+808,Booksy,San Francisco,Consumer,200.0,4/1/2020 0:00,48.0,Series B,United States,CA,California,37.7562,-122.443
+809,PatientPop,Los Angeles,Healthcare,100.0,4/1/2020 0:00,75.0,Series B,United States,CA,California,34.1139,-118.4068
+810,Showpad,Chicago,Marketing,52.0,4/1/2020 0:00,159.0,Series D,United States,IL,Illinois,41.8373,-87.6862
+811,Earnin,San Francisco,Finance,50.0,4/1/2020 0:00,190.0,Series C,United States,CA,California,37.7562,-122.443
+812,Wonolo,San Francisco,Recruiting,46.0,4/1/2020 0:00,52.0,Series C,United States,CA,California,37.7562,-122.443
+813,Crayon,Boston,Marketing,20.0,4/1/2020 0:00,16.0,Series A,United States,MA,Massachusetts,42.3188,-71.0846
+814,Pana,Denver,Travel,18.0,4/1/2020 0:00,11.0,Series A,United States,CO,Colorado,39.7621,-104.8759
+815,Usermind,Seattle,Marketing,15.0,4/1/2020 0:00,46.0,Series C,United States,WA,Washington,47.6211,-122.3244
+816,Incredible Health,San Francisco,Healthcare,9.0,4/1/2020 0:00,15.0,Series A,United States,CA,California,37.7562,-122.443
+817,KeepTruckin,San Francisco,Logistics,349.0,3/31/2020 0:00,227.0,Series D,United States,CA,California,37.7562,-122.443
+818,AdRoll,Salt Lake City,Marketing,210.0,3/31/2020 0:00,89.0,Series C,United States,UT,Utah,40.7777,-111.9306
+819,Rover,Seattle,Consumer,194.0,3/31/2020 0:00,310.0,Series G,United States,WA,Washington,47.6211,-122.3244
+820,Turo,San Francisco,Transportation,108.0,3/31/2020 0:00,467.0,Series E,United States,CA,California,37.7562,-122.443
+821,uShip,Austin,Logistics,65.0,3/31/2020 0:00,69.0,Series D,United States,TX,Texas,30.3004,-97.7522
+822,Siteimprove,Minneapolis,Marketing,40.0,3/31/2020 0:00,55.0,Unknown,United States,MN,Minnesota,44.9635,-93.2678
+823,AngelList,San Francisco,Recruiting,20.0,3/31/2020 0:00,26.0,Series B,United States,CA,California,37.7562,-122.443
+824,Zenoti,Seattle,Fitness,17.0,3/31/2020 0:00,91.0,Series C,United States,WA,Washington,47.6211,-122.3244
+825,DialSource,Sacramento,Marketing,5.0,3/31/2020 0:00,26.0,Series B,United States,CA,California,38.5667,-121.4683
+826,Thumbtack,San Francisco,Consumer,250.0,3/30/2020 0:00,423.0,Series F,United States,CA,California,37.7562,-122.443
+827,RigUp,Austin,Energy,120.0,3/30/2020 0:00,423.0,Series D,United States,TX,Texas,30.3004,-97.7522
+828,PeerStreet,Los Angeles,Finance,51.0,3/30/2020 0:00,110.0,Series C,United States,CA,California,34.1139,-118.4068
+829,Maven,Seattle,Media,31.0,3/30/2020 0:00,77.0,Post-IPO,United States,WA,Washington,47.6211,-122.3244
+830,Catalant,Boston,Other,30.0,3/30/2020 0:00,110.0,Series E,United States,MA,Massachusetts,42.3188,-71.0846
+831,Loftsmart,New York,Real Estate,25.0,3/30/2020 0:00,18.0,Series A,United States,NY,New York,40.6943,-73.9249
+832,Caliva,San Francisco,Retail,20.0,3/30/2020 0:00,75.0,Series A,United States,CA,California,37.7562,-122.443
+833,Iris Nova,New York,Food,9.0,3/30/2020 0:00,15.0,Seed,United States,NY,New York,40.6943,-73.9249
+834,ZipRecruiter,Los Angeles,Recruiting,400.0,3/29/2020 0:00,219.0,Series B,United States,CA,California,34.1139,-118.4068
+835,Amplero,Seattle,Marketing,17.0,3/29/2020 0:00,25.0,Series B,United States,WA,Washington,47.6211,-122.3244
+836,Polarr,San Francisco,Consumer,10.0,3/29/2020 0:00,13.0,Series A,United States,CA,California,37.7562,-122.443
+837,WeWork,New York,Real Estate,250.0,3/28/2020 0:00,2250.0,Series H,United States,NY,New York,40.6943,-73.9249
+838,Bird,Los Angeles,Transportation,406.0,3/27/2020 0:00,623.0,Series D,United States,CA,California,34.1139,-118.4068
+839,Everlane,San Francisco,Retail,227.0,3/27/2020 0:00,18.0,Unknown,United States,CA,California,37.7562,-122.443
+840,DataRobot,Boston,Data,200.0,3/27/2020 0:00,430.0,Series E,United States,MA,Massachusetts,42.3188,-71.0846
+841,Restaurant365,Los Angeles,Food,175.0,3/27/2020 0:00,127.0,Series C,United States,CA,California,34.1139,-118.4068
+842,Blueground,New York,Real Estate,130.0,3/27/2020 0:00,77.0,Series B,United States,NY,New York,40.6943,-73.9249
+843,Knotel,New York,Real Estate,127.0,3/27/2020 0:00,560.0,Series C,United States,NY,New York,40.6943,-73.9249
+844,Getaround,San Francisco,Transportation,100.0,3/27/2020 0:00,403.0,Series D,United States,CA,California,37.7562,-122.443
+845,Zipcar,Boston,Transportation,100.0,3/27/2020 0:00,107.0,Acquired,United States,MA,Massachusetts,42.3188,-71.0846
+846,DISCO,Austin,Legal,75.0,3/27/2020 0:00,133.0,Series E,United States,TX,Texas,30.3004,-97.7522
+847,Raken,San Diego,Construction,60.0,3/27/2020 0:00,12.0,Series A,United States,CA,California,32.8312,-117.1225
+848,Oh My Green,San Francisco,Food,40.0,3/27/2020 0:00,20.0,Seed,United States,CA,California,37.7562,-122.443
+849,Bevi,Boston,Food,30.0,3/27/2020 0:00,60.0,Series C,United States,MA,Massachusetts,42.3188,-71.0846
+850,Textio,Seattle,Recruiting,30.0,3/27/2020 0:00,41.0,Unknown,United States,WA,Washington,47.6211,-122.3244
+851,Opal,Portland,Marketing,20.0,3/27/2020 0:00,25.0,Series B,United States,OR,Oregon,45.5372,-122.65
+852,ThirdLove,New York,Retail,10.0,3/27/2020 0:00,68.0,Series B,United States,NY,New York,40.6943,-73.9249
+853,B8ta,San Francisco,Retail,250.0,3/26/2020 0:00,88.0,Series C,United States,CA,California,37.7562,-122.443
+854,Puppet,Portland,Infrastructure,50.0,3/26/2020 0:00,149.0,Series F,United States,OR,Oregon,45.5372,-122.65
+855,Passport,Charlotte,Transportation,44.0,3/26/2020 0:00,123.0,Series D,United States,NC,North Carolina,35.208,-80.8304
+856,Peerspace,San Francisco,Real Estate,41.0,3/26/2020 0:00,34.0,Series B,United States,CA,California,37.7562,-122.443
+857,GoSpotCheck,Denver,Retail,23.0,3/26/2020 0:00,47.0,Series B,United States,CO,Colorado,39.7621,-104.8759
+858,Consider.co,San Francisco,Other,13.0,3/26/2020 0:00,5.0,Seed,United States,CA,California,37.7562,-122.443
+859,TripActions,San Francisco,Travel,300.0,3/25/2020 0:00,981.0,Series D,United States,CA,California,37.7562,-122.443
+860,Lyric,San Francisco,Real Estate,100.0,3/25/2020 0:00,179.1,Series B,United States,CA,California,37.7562,-122.443
+861,WanderJaunt,San Francisco,Travel,56.0,3/25/2020 0:00,26.0,Series B,United States,CA,California,37.7562,-122.443
+862,OutboundEngine,Austin,Marketing,52.0,3/25/2020 0:00,48.0,Series C,United States,TX,Texas,30.3004,-97.7522
+863,Wonderschool,San Francisco,Education,50.0,3/25/2020 0:00,24.0,Series A,United States,CA,California,37.7562,-122.443
+864,Overtime,New York,Media,30.0,3/25/2020 0:00,35.0,Series B,United States,NY,New York,40.6943,-73.9249
+865,Jama,Portland,Product,12.0,3/25/2020 0:00,233.0,Unknown,United States,OR,Oregon,45.5372,-122.65
+866,Element Analytics,San Francisco,Data,10.0,3/25/2020 0:00,22.0,Series A,United States,CA,California,37.7562,-122.443
+867,Sonder,San Francisco,Travel,400.0,3/24/2020 0:00,359.0,Series D,United States,CA,California,37.7562,-122.443
+868,Foodsby,Minneapolis,Food,87.0,3/24/2020 0:00,20.0,Series B,United States,MN,Minnesota,44.9635,-93.2678
+869,Zeus Living,San Francisco,Real Estate,80.0,3/24/2020 0:00,79.0,Series B,United States,CA,California,37.7562,-122.443
+870,TravelBank,San Francisco,Travel,20.0,3/24/2020 0:00,35.0,Series B,United States,CA,California,37.7562,-122.443
+871,Compass,New York,Real Estate,375.0,3/23/2020 0:00,1600.0,Series G,United States,NY,New York,40.6943,-73.9249
+872,Convene,New York,Real Estate,150.0,3/23/2020 0:00,280.0,Series D,United States,NY,New York,40.6943,-73.9249
+873,Leafly,Seattle,Retail,91.0,3/23/2020 0:00,2.0,Acquired,United States,WA,Washington,47.6211,-122.3244
+874,The Guild,Austin,Travel,38.0,3/23/2020 0:00,36.0,Series B,United States,TX,Texas,30.3004,-97.7522
+875,Drip,Salt Lake City,Marketing,20.0,3/23/2020 0:00,0.0,Acquired,United States,UT,Utah,40.7777,-111.9306
+876,GrayMeta,Los Angeles,Data,20.0,3/23/2020 0:00,7.0,Unknown,United States,CA,California,34.1139,-118.4068
+877,Triplebyte,San Francisco,Recruiting,15.0,3/23/2020 0:00,48.0,Series B,United States,CA,California,37.7562,-122.443
+878,Ladder Life,San Francisco,Finance,13.0,3/23/2020 0:00,94.0,Series C,United States,CA,California,37.7562,-122.443
+879,Flywheel Sports,New York,Fitness,784.0,3/20/2020 0:00,120.0,Acquired,United States,NY,New York,40.6943,-73.9249
+880,Peek,Salt Lake City,Travel,45.0,3/20/2020 0:00,39.0,Series B,United States,UT,Utah,40.7777,-111.9306
+881,Yonder,Austin,Media,18.0,3/20/2020 0:00,16.0,Series A,United States,TX,Texas,30.3004,-97.7522
+882,Remote Year,Chicago,Travel,50.0,3/19/2020 0:00,17.0,Series B,United States,IL,Illinois,41.8373,-87.6862
+883,Lola,Boston,Travel,34.0,3/19/2020 0:00,81.0,Series C,United States,MA,Massachusetts,42.3188,-71.0846
+884,Inspirato,Denver,Travel,130.0,3/16/2020 0:00,79.0,Series C,United States,CO,Colorado,39.7621,-104.8759
+885,Help.com,Austin,Support,16.0,3/16/2020 0:00,6.0,Seed,United States,TX,Texas,30.3004,-97.7522
+886,HopSkipDrive,Los Angeles,Transportation,8.0,3/13/2020 0:00,45.0,Unknown,United States,CA,California,34.1139,-118.4068
+887,Panda Squad,San Francisco,Consumer,6.0,3/13/2020 0:00,1.0,Seed,United States,CA,California,37.7562,-122.443
+888,Tamara Mellon,Los Angeles,Retail,20.0,3/12/2020 0:00,90.0,Series C,United States,CA,California,34.1139,-118.4068
+889,EasyPost,Salt Lake City,Logistics,75.0,3/11/2020 0:00,12.0,Series A,United States,UT,Utah,40.7777,-111.9306
